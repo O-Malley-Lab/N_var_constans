@@ -1,0 +1,3368 @@
+proteinId	annotation	name
+Neocon1|28	GT10	GlycosylTransferase Family 10
+Neocon1|5034	CE2	Carbohydrate Esterase Family 2
+Neocon1|5034	CE2	Carbohydrate Esterase Family 2
+Neocon1|5126	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|11072	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|11503	CE4	Carbohydrate Esterase Family 4
+Neocon1|17897	GH3	Glycoside Hydrolase Family 3
+Neocon1|18249	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|18249	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|18249	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|18249	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|18249	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|18249	CE4	Carbohydrate Esterase Family 4
+Neocon1|23852	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|23852	DOC2	
+Neocon1|23852	DOC2	
+Neocon1|23852	GH5_7	Glycoside Hydrolase Family 5 / Subf 7
+Neocon1|27171	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|28318	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|28318	GH11	Glycoside Hydrolase Family 11
+Neocon1|35491	GH43	Glycoside Hydrolase Family 43
+Neocon1|39754	GH11	Glycoside Hydrolase Family 11
+Neocon1|49524	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|50765	GT35	GlycosylTransferase Family 35
+Neocon1|52035	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|52035	CE12	Carbohydrate Esterase Family 12
+Neocon1|52206	GH10	Glycoside Hydrolase Family 10
+Neocon1|52206	GH10	Glycoside Hydrolase Family 10
+Neocon1|58846	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|58846	PL3_2	Polysaccharide Lyase Family 3 / Subf 2
+Neocon1|60116	GT10	GlycosylTransferase Family 10
+Neocon1|65594	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|65594	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|71013	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|72934	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|72934	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|72934	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|73352	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|73352	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|73352	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|73352	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|73352	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|80693	DOC2	
+Neocon1|80693	DOC2	
+Neocon1|80693	GH6	Glycoside Hydrolase Family 6
+Neocon1|80704	DOC2	
+Neocon1|80704	DOC2	
+Neocon1|80704	GH6	Glycoside Hydrolase Family 6
+Neocon1|80722	DOC2	
+Neocon1|80722	DOC2	
+Neocon1|80722	GH6	Glycoside Hydrolase Family 6
+Neocon1|80740	DOC2	
+Neocon1|80740	DOC2	
+Neocon1|80740	GH6	Glycoside Hydrolase Family 6
+Neocon1|80741	DOC2	
+Neocon1|80741	DOC2	
+Neocon1|80741	GH6	Glycoside Hydrolase Family 6
+Neocon1|80782	DOC2	
+Neocon1|80782	DOC2	
+Neocon1|80782	GH6	Glycoside Hydrolase Family 6
+Neocon1|80789	DOC2	
+Neocon1|80789	DOC2	
+Neocon1|80789	GH6	Glycoside Hydrolase Family 6
+Neocon1|80795	DOC2	
+Neocon1|80795	DOC2	
+Neocon1|80795	GH6	Glycoside Hydrolase Family 6
+Neocon1|81192	GH11	Glycoside Hydrolase Family 11
+Neocon1|81346	GT2	GlycosylTransferase Family 2
+Neocon1|83420	GH5_7	Glycoside Hydrolase Family 5 / Subf 7
+Neocon1|85994	GT4	GlycosylTransferase Family 4
+Neocon1|86230	GH31	Glycoside Hydrolase Family 31
+Neocon1|86264	CBM26	Carbohydrate-Binding Module Family 26
+Neocon1|86264	GH31	Glycoside Hydrolase Family 31
+Neocon1|86276	CBM26	Carbohydrate-Binding Module Family 26
+Neocon1|86276	GH31	Glycoside Hydrolase Family 31
+Neocon1|86326	CBM26	Carbohydrate-Binding Module Family 26
+Neocon1|86326	GH31	Glycoside Hydrolase Family 31
+Neocon1|99190	GH43	Glycoside Hydrolase Family 43
+Neocon1|100179	DOC2	
+Neocon1|100179	DOC2	
+Neocon1|107528	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|107528	PL3_2	Polysaccharide Lyase Family 3 / Subf 2
+Neocon1|107542	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|107542	PL3_2	Polysaccharide Lyase Family 3 / Subf 2
+Neocon1|116193	DOC2	
+Neocon1|116193	DOC2	
+Neocon1|117885	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|117885	CE6	Carbohydrate Esterase Family 6
+Neocon1|122615	DOC2	
+Neocon1|122615	DOC2	
+Neocon1|122615	GH6	Glycoside Hydrolase Family 6
+Neocon1|122621	DOC2	
+Neocon1|122621	DOC2	
+Neocon1|122621	GH6	Glycoside Hydrolase Family 6
+Neocon1|122622	DOC2	
+Neocon1|122622	DOC2	
+Neocon1|122622	GH6	Glycoside Hydrolase Family 6
+Neocon1|122637	DOC2	
+Neocon1|122637	DOC2	
+Neocon1|122637	GH6	Glycoside Hydrolase Family 6
+Neocon1|122638	DOC2	
+Neocon1|122638	DOC2	
+Neocon1|122638	GH6	Glycoside Hydrolase Family 6
+Neocon1|124793	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|124793	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|124793	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|126829	CE6	Carbohydrate Esterase Family 6
+Neocon1|126829	DOC2	
+Neocon1|126829	DOC2	
+Neocon1|126914	GH3	Glycoside Hydrolase Family 3
+Neocon1|141455	GH3	Glycoside Hydrolase Family 3
+Neocon1|141458	GH3	Glycoside Hydrolase Family 3
+Neocon1|141468	GH3	Glycoside Hydrolase Family 3
+Neocon1|146718	DOC2	
+Neocon1|146718	DOC2	
+Neocon1|146718	GH6	Glycoside Hydrolase Family 6
+Neocon1|149319	GT39	GlycosylTransferase Family 39
+Neocon1|153450	DOC2	
+Neocon1|153450	DOC2	
+Neocon1|153450	GH6	Glycoside Hydrolase Family 6
+Neocon1|173329	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|173329	GH11	Glycoside Hydrolase Family 11
+Neocon1|175071	DOC2	
+Neocon1|175071	DOC2	
+Neocon1|175071	DOC2	
+Neocon1|175071	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|181832	GT4	GlycosylTransferase Family 4
+Neocon1|183922	GH5_1	Glycoside Hydrolase Family 5 / Subf 1
+Neocon1|184763	GH16	Glycoside Hydrolase Family 16
+Neocon1|187754	CE4	Carbohydrate Esterase Family 4
+Neocon1|187754	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|187754	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|187754	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|187754	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|187754	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|196013	GH11	Glycoside Hydrolase Family 11
+Neocon1|196013	GH11	Glycoside Hydrolase Family 11
+Neocon1|196013	DOC2	
+Neocon1|196013	DOC2	
+Neocon1|198324	DOC2	
+Neocon1|198324	DOC2	
+Neocon1|198324	GH6	Glycoside Hydrolase Family 6
+Neocon1|199059	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|199059	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|199059	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|199087	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|199087	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|199087	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|199087	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|199087	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|202442	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|202442	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|202442	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|202442	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|202442	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|209608	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|209608	CE6	Carbohydrate Esterase Family 6
+Neocon1|211528	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|211528	GH11	Glycoside Hydrolase Family 11
+Neocon1|214246	DOC2	
+Neocon1|214246	DOC2	
+Neocon1|214246	GH43	Glycoside Hydrolase Family 43
+Neocon1|214246	GH43	Glycoside Hydrolase Family 43
+Neocon1|214246	GH43	Glycoside Hydrolase Family 43
+Neocon1|214246	GH43	Glycoside Hydrolase Family 43
+Neocon1|216391	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|216391	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|216391	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|216391	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|218482	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|219849	DOC2	
+Neocon1|219849	DOC2	
+Neocon1|219849	GH10	Glycoside Hydrolase Family 10
+Neocon1|234514	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|248348	GH39	Glycoside Hydrolase Family 39
+Neocon1|248348	DOC2	
+Neocon1|248348	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|248348	DOC2	
+Neocon1|268491	DOC2	
+Neocon1|268491	DOC2	
+Neocon1|268491	GH6	Glycoside Hydrolase Family 6
+Neocon1|269694	PL3_2	Polysaccharide Lyase Family 3 / Subf 2
+Neocon1|269745	DOC2	
+Neocon1|269745	DOC2	
+Neocon1|269745	GH6	Glycoside Hydrolase Family 6
+Neocon1|271899	CE4	Carbohydrate Esterase Family 4
+Neocon1|281580	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|281580	GH10	Glycoside Hydrolase Family 10
+Neocon1|281918	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|281918	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|281918	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|281918	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|281918	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|290842	DOC2	
+Neocon1|290842	DOC2	
+Neocon1|290889	DOC2	
+Neocon1|290889	DOC2	
+Neocon1|290889	GH6	Glycoside Hydrolase Family 6
+Neocon1|290892	DOC2	
+Neocon1|290892	DOC2	
+Neocon1|290892	GH6	Glycoside Hydrolase Family 6
+Neocon1|290894	DOC2	
+Neocon1|290894	DOC2	
+Neocon1|290894	GH6	Glycoside Hydrolase Family 6
+Neocon1|300833	DOC2	
+Neocon1|300833	DOC2	
+Neocon1|300833	GH6	Glycoside Hydrolase Family 6
+Neocon1|304558	PL1	Polysaccharide Lyase Family 1
+Neocon1|307897	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|309127	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|309127	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|309127	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|312248	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|312248	GH10	Glycoside Hydrolase Family 10
+Neocon1|312309	GH10	Glycoside Hydrolase Family 10
+Neocon1|312309	DOC2	
+Neocon1|312309	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|312309	DOC2	
+Neocon1|321049	GH48	Glycoside Hydrolase Family 48
+Neocon1|321049	DOC2	
+Neocon1|321049	DOC2	
+Neocon1|329678	DOC2	
+Neocon1|329678	GH10	Glycoside Hydrolase Family 10
+Neocon1|334123	CE6	Carbohydrate Esterase Family 6
+Neocon1|334123	DOC2	
+Neocon1|334123	DOC2	
+Neocon1|341833	PL1	Polysaccharide Lyase Family 1
+Neocon1|342188	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|342977	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|342977	CE8	Carbohydrate Esterase Family 8
+Neocon1|346157	GH1	Glycoside Hydrolase Family 1
+Neocon1|356462	GH39	Glycoside Hydrolase Family 39
+Neocon1|356462	DOC2	
+Neocon1|356462	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|356462	DOC2	
+Neocon1|356654	DOC2	
+Neocon1|356654	DOC2	
+Neocon1|360749	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|360749	GH11	Glycoside Hydrolase Family 11
+Neocon1|360777	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|360777	GH11	Glycoside Hydrolase Family 11
+Neocon1|363680	PL11_2	Polysaccharide Lyase Family 11 / Subf 2
+Neocon1|364244	GH43	Glycoside Hydrolase Family 43
+Neocon1|369281	DOC2	
+Neocon1|369281	DOC2	
+Neocon1|369281	GH124	Glycoside Hydrolase Family 124
+Neocon1|369281	DOC2	
+Neocon1|370926	CE6	Carbohydrate Esterase Family 6
+Neocon1|370926	DOC2	
+Neocon1|370926	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|370926	DOC2	
+Neocon1|382240	DOC2	
+Neocon1|382240	DOC2	
+Neocon1|382240	GH6	Glycoside Hydrolase Family 6
+Neocon1|382246	DOC2	
+Neocon1|382246	DOC2	
+Neocon1|382246	GH6	Glycoside Hydrolase Family 6
+Neocon1|382346	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|382346	PL3_2	Polysaccharide Lyase Family 3 / Subf 2
+Neocon1|382357	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|382357	PL3_2	Polysaccharide Lyase Family 3 / Subf 2
+Neocon1|386864	GT2	GlycosylTransferase Family 2
+Neocon1|388749	CBM6	Carbohydrate-Binding Module Family 6
+Neocon1|388749	GH43	Glycoside Hydrolase Family 43
+Neocon1|388749	DOC2	
+Neocon1|388749	DOC2	
+Neocon1|391143	DOC2	
+Neocon1|391143	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|391143	DOC2	
+Neocon1|391143	GH2	Glycoside Hydrolase Family 2
+Neocon1|391894	GT3	GlycosylTransferase Family 3
+Neocon1|393378	DOC2	
+Neocon1|393378	GH10	Glycoside Hydrolase Family 10
+Neocon1|470528	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|472092	CE2	Carbohydrate Esterase Family 2
+Neocon1|473039	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|473039	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|474149	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|474149	DOC2	
+Neocon1|475265	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|475265	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|485384	GH114	Glycoside Hydrolase Family 114
+Neocon1|487772	GH11	Glycoside Hydrolase Family 11
+Neocon1|488114	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|492644	GH114	Glycoside Hydrolase Family 114
+Neocon1|505376	GT8	GlycosylTransferase Family 8
+Neocon1|506265	GT71	GlycosylTransferase Family 71
+Neocon1|514179	GH5_7	Glycoside Hydrolase Family 5 / Subf 7
+Neocon1|514783	GT8	GlycosylTransferase Family 8
+Neocon1|515113	GT8	GlycosylTransferase Family 8
+Neocon1|517948	GH11	Glycoside Hydrolase Family 11
+Neocon1|519574	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|519574	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|519574	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|519574	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|519574	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|521577	GH11	Glycoside Hydrolase Family 11
+Neocon1|528794	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|528794	GH6	Glycoside Hydrolase Family 6
+Neocon1|529092	DOC2	
+Neocon1|529092	DOC2	
+Neocon1|529092	DOC2	
+Neocon1|529092	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|529876	GT71	GlycosylTransferase Family 71
+Neocon1|530209	GH64	Glycoside Hydrolase Family 64
+Neocon1|530209	CBM52	Carbohydrate-Binding Module Family 52
+Neocon1|530369	DOC2	
+Neocon1|530369	DOC2	
+Neocon1|530369	DOC2	
+Neocon1|530987	GT101	GlycosylTransferase Family 101
+Neocon1|530993	GT2	GlycosylTransferase Family 2
+Neocon1|531085	GT2	GlycosylTransferase Family 2
+Neocon1|531342	EXPN	Distantly related to plant expansins
+Neocon1|531673	GT2	GlycosylTransferase Family 2
+Neocon1|531726	GT2	GlycosylTransferase Family 2
+Neocon1|531808	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|531808	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|531808	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|531808	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|532437	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|532437	CE8	Carbohydrate Esterase Family 8
+Neocon1|532575	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|532575	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|532575	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|532575	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|532575	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|532575	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|532886	CE4	Carbohydrate Esterase Family 4
+Neocon1|533196	CE4	Carbohydrate Esterase Family 4
+Neocon1|533258	DOC2	
+Neocon1|533258	DOC2	
+Neocon1|533385	GT71	GlycosylTransferase Family 71
+Neocon1|533971	GT33	GlycosylTransferase Family 33
+Neocon1|534065	DOC2	
+Neocon1|534065	DOC2	
+Neocon1|534065	EXPN	Distantly related to plant expansins
+Neocon1|534065	DOC2	
+Neocon1|534119	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|534119	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|534119	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|534119	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|534119	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|534119	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|534558	DOC2	
+Neocon1|534558	DOC2	
+Neocon1|535221	DOC2	
+Neocon1|535221	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|535268	GT34	GlycosylTransferase Family 34
+Neocon1|535945	CE4	Carbohydrate Esterase Family 4
+Neocon1|536101	DOC2	
+Neocon1|536101	DOC2	
+Neocon1|536101	GH5_7	Glycoside Hydrolase Family 5 / Subf 7
+Neocon1|536249	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|536455	GH114	Glycoside Hydrolase Family 114
+Neocon1|536597	DOC2	
+Neocon1|536597	GH9	Glycoside Hydrolase Family 9
+Neocon1|536597	DOC2	
+Neocon1|536597	DOC2	
+Neocon1|537196	GT2	GlycosylTransferase Family 2
+Neocon1|537727	DOC2	
+Neocon1|537727	DOC2	
+Neocon1|539120	GT2	GlycosylTransferase Family 2
+Neocon1|539130	PL1	Polysaccharide Lyase Family 1
+Neocon1|539326	GH11	Glycoside Hydrolase Family 11
+Neocon1|543143	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|544246	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|545152	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|545152	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|545152	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|545152	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|545152	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|545661	CE4	Carbohydrate Esterase Family 4
+Neocon1|545968	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|545968	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|545973	GT1	GlycosylTransferase Family 1
+Neocon1|546779	DOC2	
+Neocon1|546779	DOC2	
+Neocon1|546779	EXPN	Distantly related to plant expansins
+Neocon1|546779	DOC2	
+Neocon1|546833	GH13_14	Glycoside Hydrolase Family 13 / Subf 14
+Neocon1|547251	GH45	Glycoside Hydrolase Family 45
+Neocon1|547251	DOC2	
+Neocon1|547251	DOC2	
+Neocon1|547251	DOC2	
+Neocon1|547342	GT4	GlycosylTransferase Family 4
+Neocon1|547527	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|547527	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|547527	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|547527	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|547527	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|547527	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|547576	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|547576	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|547576	DOC2	
+Neocon1|547576	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|547576	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|547886	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|547965	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|548671	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|548671	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|548734	DOC2	
+Neocon1|548734	GH9	Glycoside Hydrolase Family 9
+Neocon1|548734	DOC2	
+Neocon1|548734	DOC2	
+Neocon1|548771	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|548831	GH39	Glycoside Hydrolase Family 39
+Neocon1|548831	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|549220	CBM48	Carbohydrate-Binding Module Family 48
+Neocon1|549220	GH13_8	Glycoside Hydrolase Family 13 / Subf 8
+Neocon1|549597	CE18	Carbohydrate Esterase Family 18
+Neocon1|549597	CBM87	Carbohydrate-Binding Module Family 87
+Neocon1|549688	GH18	Glycoside Hydrolase Family 18
+Neocon1|549954	Myosin_motor	Glycosyltransferase Family 2
+Neocon1|549954	GT2	GlycosylTransferase Family 2
+Neocon1|550056	GT39	GlycosylTransferase Family 39
+Neocon1|550386	GT2	GlycosylTransferase Family 2
+Neocon1|550648	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|550648	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|550648	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|550648	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|550685	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|550756	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|550774	GT2	GlycosylTransferase Family 2
+Neocon1|551422	CE18	Carbohydrate Esterase Family 18
+Neocon1|551422	CBM87	Carbohydrate-Binding Module Family 87
+Neocon1|551518	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|551518	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|551823	GH114	Glycoside Hydrolase Family 114
+Neocon1|552004	GH18	Glycoside Hydrolase Family 18
+Neocon1|552786	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|552901	DOC2	
+Neocon1|552901	DOC2	
+Neocon1|553920	GT101	GlycosylTransferase Family 101
+Neocon1|553937	GT2	GlycosylTransferase Family 2
+Neocon1|553943	GT2	GlycosylTransferase Family 2
+Neocon1|553981	GT2	GlycosylTransferase Family 2
+Neocon1|553987	GT10	GlycosylTransferase Family 10
+Neocon1|553998	GT2	GlycosylTransferase Family 2
+Neocon1|554362	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|554362	DOC2	
+Neocon1|554362	DOC2	
+Neocon1|554362	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|554362	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|554362	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|554362	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|554362	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|555272	CBM21	Carbohydrate-Binding Module Family 21
+Neocon1|555929	GT2	GlycosylTransferase Family 2
+Neocon1|556575	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|556575	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|556575	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|556575	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|556575	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|556575	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|556575	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|556786	EXPN	Distantly related to plant expansins
+Neocon1|556911	GH47	Glycoside Hydrolase Family 47
+Neocon1|557313	GT34	GlycosylTransferase Family 34
+Neocon1|557858	GH16	Glycoside Hydrolase Family 16
+Neocon1|558250	CBM48	Carbohydrate-Binding Module Family 48
+Neocon1|558281	DOC2	
+Neocon1|558281	DOC2	
+Neocon1|558313	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|558313	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|558313	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|558313	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|559032	DOC2	
+Neocon1|559032	DOC2	
+Neocon1|559171	GT71	GlycosylTransferase Family 71
+Neocon1|559268	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|559513	GT2	GlycosylTransferase Family 2
+Neocon1|559777	CE4	Carbohydrate Esterase Family 4
+Neocon1|560256	GH20	Glycoside Hydrolase Family 20
+Neocon1|560929	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|560929	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|560929	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|560929	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|560929	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|560929	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|560929	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|560929	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|561209	CE18	Carbohydrate Esterase Family 18
+Neocon1|561209	CBM87	Carbohydrate-Binding Module Family 87
+Neocon1|561785	DOC2	
+Neocon1|561785	DOC2	
+Neocon1|562373	GH43	Glycoside Hydrolase Family 43
+Neocon1|562923	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|562967	CE4	Carbohydrate Esterase Family 4
+Neocon1|563282	GT34	GlycosylTransferase Family 34
+Neocon1|563322	CE4	Carbohydrate Esterase Family 4
+Neocon1|563378	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|563378	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|563378	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|563378	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|564002	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|564002	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|564002	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|564002	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|564421	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|564421	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|564909	GT41	GlycosylTransferase Family 41
+Neocon1|564998	GT71	GlycosylTransferase Family 71
+Neocon1|565423	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|566068	GH3	Glycoside Hydrolase Family 3
+Neocon1|566189	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|566189	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|566966	CBM48	Carbohydrate-Binding Module Family 48
+Neocon1|567293	GT22	GlycosylTransferase Family 22
+Neocon1|567931	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|567931	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|568709	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|568859	CE18	Carbohydrate Esterase Family 18
+Neocon1|568859	CBM87	Carbohydrate-Binding Module Family 87
+Neocon1|568884	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|568894	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|568899	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|568899	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|568929	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|568929	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|568977	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|568977	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|568977	CE4	Carbohydrate Esterase Family 4
+Neocon1|568979	DOC2	
+Neocon1|568979	DOC2	
+Neocon1|569758	GH16	Glycoside Hydrolase Family 16
+Neocon1|570471	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|570471	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|570496	GH16	Glycoside Hydrolase Family 16
+Neocon1|570560	CE18	Carbohydrate Esterase Family 18
+Neocon1|570560	CBM87	Carbohydrate-Binding Module Family 87
+Neocon1|570560	DOC2	
+Neocon1|570560	DOC2	
+Neocon1|570656	DOC2	
+Neocon1|570656	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|570656	DOC2	
+Neocon1|570656	DOC2	
+Neocon1|571898	CBM48	Carbohydrate-Binding Module Family 48
+Neocon1|571898	GH13_8	Glycoside Hydrolase Family 13 / Subf 8
+Neocon1|572137	DOC2	
+Neocon1|572137	DOC2	
+Neocon1|572137	EXPN	Distantly related to plant expansins
+Neocon1|572137	DOC2	
+Neocon1|572226	GT4	GlycosylTransferase Family 4
+Neocon1|572383	EXPN	Distantly related to plant expansins
+Neocon1|572383	DOC2	
+Neocon1|572383	CBM63	Carbohydrate-Binding Module Family 63
+Neocon1|572745	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|572745	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|572745	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|572895	GT39	GlycosylTransferase Family 39
+Neocon1|573103	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|573187	CE4	Carbohydrate Esterase Family 4
+Neocon1|573368	GH47	Glycoside Hydrolase Family 47
+Neocon1|573690	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|573690	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|573755	GT2	GlycosylTransferase Family 2
+Neocon1|573836	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|573916	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|574131	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|574291	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|574400	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|574431	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|574447	DOC2	
+Neocon1|574447	DOC2	
+Neocon1|574482	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|574512	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|574533	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|574612	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|574612	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|574665	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|575014	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|575066	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|575209	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|575216	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|575232	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|575243	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|575243	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|575772	DOC2	
+Neocon1|575772	GH74	Glycoside Hydrolase Family 74
+Neocon1|575772	DOC2	
+Neocon1|575772	DOC2	
+Neocon1|575826	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|575826	GH18	Glycoside Hydrolase Family 18
+Neocon1|575826	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|575826	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|576073	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|576073	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|576408	GH32	Glycoside Hydrolase Family 32
+Neocon1|576448	DOC2	
+Neocon1|576448	DOC2	
+Neocon1|576448	DOC2	
+Neocon1|576451	DOC2	
+Neocon1|576451	DOC2	
+Neocon1|576451	DOC2	
+Neocon1|576519	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|576589	DOC2	
+Neocon1|576589	EXPN	Distantly related to plant expansins
+Neocon1|576589	DOC2	
+Neocon1|576612	PL3_2	Polysaccharide Lyase Family 3 / Subf 2
+Neocon1|577021	CE8	Carbohydrate Esterase Family 8
+Neocon1|577117	DOC2	
+Neocon1|577117	DOC2	
+Neocon1|577261	EXPN	Distantly related to plant expansins
+Neocon1|577509	Myosin_motor	Glycosyltransferase Family 2
+Neocon1|577509	GT2	GlycosylTransferase Family 2
+Neocon1|577674	DOC2	
+Neocon1|577674	GH74	Glycoside Hydrolase Family 74
+Neocon1|577674	DOC2	
+Neocon1|577674	DOC2	
+Neocon1|577674	DOC2	
+Neocon1|577746	DOC2	
+Neocon1|577746	DOC2	
+Neocon1|577746	DOC2	
+Neocon1|577746	GH6	Glycoside Hydrolase Family 6
+Neocon1|577746	GH3	Glycoside Hydrolase Family 3
+Neocon1|577936	GT2	GlycosylTransferase Family 2
+Neocon1|578143	CBM29	Carbohydrate-Binding Module Family 29
+Neocon1|578143	CBM29	Carbohydrate-Binding Module Family 29
+Neocon1|578143	CBM29	Carbohydrate-Binding Module Family 29
+Neocon1|578143	DOC2	
+Neocon1|578143	DOC2	
+Neocon1|578143	GH10	Glycoside Hydrolase Family 10
+Neocon1|578143	DOC2	
+Neocon1|578365	DOC2	
+Neocon1|578365	DOC2	
+Neocon1|578365	GH45	Glycoside Hydrolase Family 45
+Neocon1|578719	GH11	Glycoside Hydrolase Family 11
+Neocon1|578719	GH11	Glycoside Hydrolase Family 11
+Neocon1|579202	DOC2	
+Neocon1|579202	DOC2	
+Neocon1|579202	DOC2	
+Neocon1|579494	GT39	GlycosylTransferase Family 39
+Neocon1|579609	CE4	Carbohydrate Esterase Family 4
+Neocon1|579987	CE18	Carbohydrate Esterase Family 18
+Neocon1|579987	CBM87	Carbohydrate-Binding Module Family 87
+Neocon1|580071	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|580071	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|580071	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|580071	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|580071	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|580071	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|580071	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|580071	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|580092	GH48	Glycoside Hydrolase Family 48
+Neocon1|580092	DOC2	
+Neocon1|580092	DOC2	
+Neocon1|580099	GH36	Glycoside Hydrolase Family 36
+Neocon1|580314	DOC2	
+Neocon1|580314	GH9	Glycoside Hydrolase Family 9
+Neocon1|580314	DOC2	
+Neocon1|580576	GT39	GlycosylTransferase Family 39
+Neocon1|580603	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|580603	PL3_2	Polysaccharide Lyase Family 3 / Subf 2
+Neocon1|580957	GT34	GlycosylTransferase Family 34
+Neocon1|581262	DOC2	
+Neocon1|581262	DOC2	
+Neocon1|581262	DOC2	
+Neocon1|581262	GH45	Glycoside Hydrolase Family 45
+Neocon1|581266	DOC2	
+Neocon1|581266	DOC2	
+Neocon1|581266	GH45	Glycoside Hydrolase Family 45
+Neocon1|581271	GT34	GlycosylTransferase Family 34
+Neocon1|581872	GH114	Glycoside Hydrolase Family 114
+Neocon1|582096	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|582096	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|582096	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|582096	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|582096	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|582110	GT22	GlycosylTransferase Family 22
+Neocon1|582988	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|582988	PL3_2	Polysaccharide Lyase Family 3 / Subf 2
+Neocon1|583008	GH43	Glycoside Hydrolase Family 43
+Neocon1|583040	CE8	Carbohydrate Esterase Family 8
+Neocon1|583142	GH5_7	Glycoside Hydrolase Family 5 / Subf 7
+Neocon1|583210	GH141	Glycoside Hydrolase Family 141
+Neocon1|583210	DOC2	
+Neocon1|583210	DOC2	
+Neocon1|583601	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|583668	DOC2	
+Neocon1|583668	DOC2	
+Neocon1|583668	GH5_1	Glycoside Hydrolase Family 5 / Subf 1
+Neocon1|583668	DOC2	
+Neocon1|584141	EXPN	Distantly related to plant expansins
+Neocon1|584141	DOC2	
+Neocon1|584141	DOC2	
+Neocon1|584141	CBM63	Carbohydrate-Binding Module Family 63
+Neocon1|584316	GH45	Glycoside Hydrolase Family 45
+Neocon1|584316	DOC2	
+Neocon1|584316	DOC2	
+Neocon1|584713	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|584713	PL1	Polysaccharide Lyase Family 1
+Neocon1|584726	GT2	GlycosylTransferase Family 2
+Neocon1|584955	GT2	GlycosylTransferase Family 2
+Neocon1|585078	CBM21	Carbohydrate-Binding Module Family 21
+Neocon1|585080	CBM21	Carbohydrate-Binding Module Family 21
+Neocon1|585592	GH18	Glycoside Hydrolase Family 18
+Neocon1|585838	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|585838	CBM6	Carbohydrate-Binding Module Family 6
+Neocon1|585838	GH43	Glycoside Hydrolase Family 43
+Neocon1|586324	GH48	Glycoside Hydrolase Family 48
+Neocon1|586324	DOC2	
+Neocon1|586324	DOC2	
+Neocon1|586455	GT15	GlycosylTransferase Family 15
+Neocon1|586682	DOC2	
+Neocon1|586682	DOC2	
+Neocon1|586875	DOC2	
+Neocon1|586875	DOC2	
+Neocon1|586875	DOC2	
+Neocon1|587085	CE4	Carbohydrate Esterase Family 4
+Neocon1|587085	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|587085	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|587109	DOC2	
+Neocon1|587109	GH11	Glycoside Hydrolase Family 11
+Neocon1|587109	DOC2	
+Neocon1|587300	DOC2	
+Neocon1|587300	DOC2	
+Neocon1|587374	DOC2	
+Neocon1|587374	DOC2	
+Neocon1|587374	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|587914	DOC2	
+Neocon1|587914	DOC2	
+Neocon1|587914	DOC2	
+Neocon1|587914	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|587914	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|588780	GH18	Glycoside Hydrolase Family 18
+Neocon1|588923	GH26	Glycoside Hydrolase Family 26
+Neocon1|588923	CBM35	Carbohydrate-Binding Module Family 35
+Neocon1|588923	DOC2	
+Neocon1|588923	DOC2	
+Neocon1|588926	GH26	Glycoside Hydrolase Family 26
+Neocon1|588926	CBM35	Carbohydrate-Binding Module Family 35
+Neocon1|588926	DOC2	
+Neocon1|588926	DOC2	
+Neocon1|588928	GH26	Glycoside Hydrolase Family 26
+Neocon1|588928	DOC2	
+Neocon1|588928	DOC2	
+Neocon1|588928	CBM35	Carbohydrate-Binding Module Family 35
+Neocon1|588928	DOC2	
+Neocon1|588928	DOC2	
+Neocon1|588928	DOC2	
+Neocon1|589067	GT76	GlycosylTransferase Family 76
+Neocon1|589588	CE4	Carbohydrate Esterase Family 4
+Neocon1|590469	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|590469	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|590546	DOC2	
+Neocon1|590546	GH10	Glycoside Hydrolase Family 10
+Neocon1|590918	DOC2	
+Neocon1|590918	DOC2	
+Neocon1|590918	EXPN	Distantly related to plant expansins
+Neocon1|590918	DOC2	
+Neocon1|591152	CE8	Carbohydrate Esterase Family 8
+Neocon1|591393	DOC2	
+Neocon1|591393	DOC2	
+Neocon1|591479	DOC2	
+Neocon1|591479	DOC2	
+Neocon1|591479	GH45	Glycoside Hydrolase Family 45
+Neocon1|591495	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|591495	CE8	Carbohydrate Esterase Family 8
+Neocon1|591600	GH11	Glycoside Hydrolase Family 11
+Neocon1|591600	GH11	Glycoside Hydrolase Family 11
+Neocon1|591600	DOC2	
+Neocon1|591962	CE4	Carbohydrate Esterase Family 4
+Neocon1|591962	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|592038	DOC2	
+Neocon1|592038	GH105	Glycoside Hydrolase Family 105
+Neocon1|592253	CE4	Carbohydrate Esterase Family 4
+Neocon1|592424	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|592671	GH39	Glycoside Hydrolase Family 39
+Neocon1|592671	DOC2	
+Neocon1|592671	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|592671	DOC2	
+Neocon1|592999	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|592999	PL3_2	Polysaccharide Lyase Family 3 / Subf 2
+Neocon1|593016	GT39	GlycosylTransferase Family 39
+Neocon1|593327	GH30_5	Glycoside Hydrolase Family 30 / Subf 5
+Neocon1|593327	DOC2	
+Neocon1|593333	GH115	Glycoside Hydrolase Family 115
+Neocon1|593357	GH43	Glycoside Hydrolase Family 43
+Neocon1|593698	GH10	Glycoside Hydrolase Family 10
+Neocon1|593832	GT2	GlycosylTransferase Family 2
+Neocon1|594049	CE4	Carbohydrate Esterase Family 4
+Neocon1|594049	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|594433	Myosin_motor	Glycosyltransferase Family 2
+Neocon1|594433	GT2	GlycosylTransferase Family 2
+Neocon1|594700	CE4	Carbohydrate Esterase Family 4
+Neocon1|594735	GT4	GlycosylTransferase Family 4
+Neocon1|595401	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|595401	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|595401	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|595401	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|595465	GT50	GlycosylTransferase Family 50
+Neocon1|595534	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|595643	CE4	Carbohydrate Esterase Family 4
+Neocon1|596035	DOC2	
+Neocon1|596035	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|596527	DOC2	
+Neocon1|596527	DOC2	
+Neocon1|596527	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|596719	GH10	Glycoside Hydrolase Family 10
+Neocon1|596719	DOC2	
+Neocon1|596719	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|596719	DOC2	
+Neocon1|596788	DOC2	
+Neocon1|596788	DOC2	
+Neocon1|596788	GH5_1	Glycoside Hydrolase Family 5 / Subf 1
+Neocon1|596788	DOC2	
+Neocon1|597948	DOC2	
+Neocon1|597948	DOC2	
+Neocon1|597948	GH43	Glycoside Hydrolase Family 43
+Neocon1|597974	Myosin_motor	Glycosyltransferase Family 2
+Neocon1|597974	GT2	GlycosylTransferase Family 2
+Neocon1|598056	DOC2	
+Neocon1|598056	DOC2	
+Neocon1|598571	GT32	GlycosylTransferase Family 32
+Neocon1|598628	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|598766	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|598766	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|599152	GH43	Glycoside Hydrolase Family 43
+Neocon1|599152	DOC2	
+Neocon1|599152	GH9	Glycoside Hydrolase Family 9
+Neocon1|599152	DOC2	
+Neocon1|599152	DOC2	
+Neocon1|599152	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|599407	GH26	Glycoside Hydrolase Family 26
+Neocon1|599407	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|599515	GH5_5	Glycoside Hydrolase Family 5 / Subf 5
+Neocon1|599515	DOC2	
+Neocon1|599515	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|599515	GH5_5	Glycoside Hydrolase Family 5 / Subf 5
+Neocon1|599515	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|599515	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|599515	DOC2	
+Neocon1|599519	GH5_5	Glycoside Hydrolase Family 5 / Subf 5
+Neocon1|599519	DOC2	
+Neocon1|599519	DOC2	
+Neocon1|599519	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|599519	GH5_5	Glycoside Hydrolase Family 5 / Subf 5
+Neocon1|599519	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|599625	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|599625	GH10	Glycoside Hydrolase Family 10
+Neocon1|599711	GH114	Glycoside Hydrolase Family 114
+Neocon1|599713	DOC2	
+Neocon1|599713	GH114	Glycoside Hydrolase Family 114
+Neocon1|599713	DOC2	
+Neocon1|599713	DOC2	
+Neocon1|599713	DOC2	
+Neocon1|599754	DOC2	
+Neocon1|599754	DOC2	
+Neocon1|599754	DOC2	
+Neocon1|599754	DOC2	
+Neocon1|599754	DOC2	
+Neocon1|599754	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|599806	GH133	Glycoside Hydrolase Family 133
+Neocon1|599806	GH13_25	Glycoside Hydrolase Family 13 / Subf 25
+Neocon1|599893	CE18	Carbohydrate Esterase Family 18
+Neocon1|599893	CBM87	Carbohydrate-Binding Module Family 87
+Neocon1|600394	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|600394	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|600394	CE4	Carbohydrate Esterase Family 4
+Neocon1|600407	DOC2	
+Neocon1|600407	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|600407	DOC2	
+Neocon1|600811	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|600811	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|600811	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|600993	CE4	Carbohydrate Esterase Family 4
+Neocon1|600993	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|600995	CE4	Carbohydrate Esterase Family 4
+Neocon1|600995	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|601040	PL1	Polysaccharide Lyase Family 1
+Neocon1|601528	CE4	Carbohydrate Esterase Family 4
+Neocon1|601540	CE4	Carbohydrate Esterase Family 4
+Neocon1|601549	GT39	GlycosylTransferase Family 39
+Neocon1|601942	DOC2	
+Neocon1|601942	GH124	Glycoside Hydrolase Family 124
+Neocon1|601942	DOC2	
+Neocon1|602190	GT24	GlycosylTransferase Family 24
+Neocon1|602399	CE4	Carbohydrate Esterase Family 4
+Neocon1|602447	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|602447	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|602447	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|603089	CBM21	Carbohydrate-Binding Module Family 21
+Neocon1|603293	GT32	GlycosylTransferase Family 32
+Neocon1|603504	DOC2	
+Neocon1|603504	DOC2	
+Neocon1|603504	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|603852	DOC2	
+Neocon1|603852	DOC2	
+Neocon1|603852	GH5_1	Glycoside Hydrolase Family 5 / Subf 1
+Neocon1|603852	DOC2	
+Neocon1|604429	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|604429	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|604429	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|604500	DOC2	
+Neocon1|604500	GH53	Glycoside Hydrolase Family 53
+Neocon1|604500	DOC2	
+Neocon1|604934	GH16	Glycoside Hydrolase Family 16
+Neocon1|604934	CBM52	Carbohydrate-Binding Module Family 52
+Neocon1|605141	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|605141	DOC2	
+Neocon1|605141	DOC2	
+Neocon1|605141	DOC2	
+Neocon1|605699	CE4	Carbohydrate Esterase Family 4
+Neocon1|606303	DOC2	
+Neocon1|606851	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|606851	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|606851	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|606855	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|606967	DOC2	
+Neocon1|606967	DOC2	
+Neocon1|606967	GH16	Glycoside Hydrolase Family 16
+Neocon1|607282	CBM87	Carbohydrate-Binding Module Family 87
+Neocon1|607556	GH3	Glycoside Hydrolase Family 3
+Neocon1|607562	GH3	Glycoside Hydrolase Family 3
+Neocon1|607699	EXPN	Distantly related to plant expansins
+Neocon1|607973	DOC2	
+Neocon1|607973	DOC2	
+Neocon1|608691	GT32	GlycosylTransferase Family 32
+Neocon1|608855	GH114	Glycoside Hydrolase Family 114
+Neocon1|609352	CBM48	Carbohydrate-Binding Module Family 48
+Neocon1|609352	GH13_8	Glycoside Hydrolase Family 13 / Subf 8
+Neocon1|609547	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|610130	GH45	Glycoside Hydrolase Family 45
+Neocon1|610339	DOC2	
+Neocon1|610339	DOC2	
+Neocon1|610439	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|610439	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|610439	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|610439	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|610439	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|610439	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|610570	GH11	Glycoside Hydrolase Family 11
+Neocon1|610570	GH11	Glycoside Hydrolase Family 11
+Neocon1|610649	DOC2	
+Neocon1|610649	DOC2	
+Neocon1|610688	DOC2	
+Neocon1|610688	DOC2	
+Neocon1|610688	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|610688	GH95	Glycoside Hydrolase Family 95
+Neocon1|611288	GH53	Glycoside Hydrolase Family 53
+Neocon1|611551	GT34	GlycosylTransferase Family 34
+Neocon1|611731	EXPN	Distantly related to plant expansins
+Neocon1|612951	DOC2	
+Neocon1|612951	GH9	Glycoside Hydrolase Family 9
+Neocon1|612951	DOC2	
+Neocon1|612951	DOC2	
+Neocon1|613368	PL1	Polysaccharide Lyase Family 1
+Neocon1|613422	CBM35	Carbohydrate-Binding Module Family 35
+Neocon1|614137	GH16	Glycoside Hydrolase Family 16
+Neocon1|614360	GT34	GlycosylTransferase Family 34
+Neocon1|614367	GH114	Glycoside Hydrolase Family 114
+Neocon1|614369	GH114	Glycoside Hydrolase Family 114
+Neocon1|614647	GT17	GlycosylTransferase Family 17
+Neocon1|615474	DOC2	
+Neocon1|615474	DOC2	
+Neocon1|615493	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|615493	GH6	Glycoside Hydrolase Family 6
+Neocon1|615503	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|615503	GH6	Glycoside Hydrolase Family 6
+Neocon1|615510	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|615510	GH6	Glycoside Hydrolase Family 6
+Neocon1|616112	CE6	Carbohydrate Esterase Family 6
+Neocon1|616131	DOC2	
+Neocon1|616131	DOC2	
+Neocon1|616131	DOC2	
+Neocon1|616282	DOC2	
+Neocon1|616282	DOC2	
+Neocon1|616282	GH5_1	Glycoside Hydrolase Family 5 / Subf 1
+Neocon1|616282	DOC2	
+Neocon1|616463	GT34	GlycosylTransferase Family 34
+Neocon1|616494	GT2	GlycosylTransferase Family 2
+Neocon1|616534	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|616534	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|616534	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|616534	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|616534	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|616573	CE8	Carbohydrate Esterase Family 8
+Neocon1|616587	GT71	GlycosylTransferase Family 71
+Neocon1|616742	GH64	Glycoside Hydrolase Family 64
+Neocon1|616742	CBM52	Carbohydrate-Binding Module Family 52
+Neocon1|616861	PL3_2	Polysaccharide Lyase Family 3 / Subf 2
+Neocon1|616867	PL3_2	Polysaccharide Lyase Family 3 / Subf 2
+Neocon1|616869	PL3_2	Polysaccharide Lyase Family 3 / Subf 2
+Neocon1|616883	PL3_2	Polysaccharide Lyase Family 3 / Subf 2
+Neocon1|616961	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|616961	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|616961	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|616961	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|617072	DOC2	
+Neocon1|617072	DOC2	
+Neocon1|617072	GH45	Glycoside Hydrolase Family 45
+Neocon1|617103	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|617108	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|617108	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|617108	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|617108	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|617155	CE2	Carbohydrate Esterase Family 2
+Neocon1|617157	DOC2	
+Neocon1|617157	DOC2	
+Neocon1|617157	DOC2	
+Neocon1|617330	GH18	Glycoside Hydrolase Family 18
+Neocon1|617339	DOC2	
+Neocon1|617339	DOC2	
+Neocon1|617339	DOC2	
+Neocon1|617341	GT31	GlycosylTransferase Family 31
+Neocon1|617400	GT4	GlycosylTransferase Family 4
+Neocon1|617500	DOC2	
+Neocon1|617602	GH1	Glycoside Hydrolase Family 1
+Neocon1|617694	GH5_7	Glycoside Hydrolase Family 5 / Subf 7
+Neocon1|617836	DOC2	
+Neocon1|617836	GH74	Glycoside Hydrolase Family 74
+Neocon1|617836	DOC2	
+Neocon1|617836	DOC2	
+Neocon1|618033	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|618105	GH5_8	Glycoside Hydrolase Family 5 / Subf 8
+Neocon1|618105	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|618105	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|618266	DOC2	
+Neocon1|618266	EXPN	Distantly related to plant expansins
+Neocon1|618266	DOC2	
+Neocon1|618368	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|618368	CE8	Carbohydrate Esterase Family 8
+Neocon1|618370	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|618370	CE8	Carbohydrate Esterase Family 8
+Neocon1|618402	DOC2	
+Neocon1|618402	GH8	Glycoside Hydrolase Family 8
+Neocon1|618785	GH5_5	Glycoside Hydrolase Family 5 / Subf 5
+Neocon1|618785	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|618785	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|618785	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|618821	GT2	GlycosylTransferase Family 2
+Neocon1|618847	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|618847	DOC2	
+Neocon1|618847	DOC2	
+Neocon1|618847	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|618942	CE4	Carbohydrate Esterase Family 4
+Neocon1|619087	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|619087	CE6	Carbohydrate Esterase Family 6
+Neocon1|619451	GT34	GlycosylTransferase Family 34
+Neocon1|619455	GT34	GlycosylTransferase Family 34
+Neocon1|619465	CE4	Carbohydrate Esterase Family 4
+Neocon1|619921	DOC2	
+Neocon1|619921	DOC2	
+Neocon1|619921	GH97	Glycoside Hydrolase Family 97
+Neocon1|620164	DOC2	
+Neocon1|620164	GH9	Glycoside Hydrolase Family 9
+Neocon1|620164	DOC2	
+Neocon1|620164	DOC2	
+Neocon1|620329	DOC2	
+Neocon1|620329	DOC2	
+Neocon1|620329	DOC2	
+Neocon1|620329	DOC2	
+Neocon1|620329	DOC2	
+Neocon1|620329	DOC2	
+Neocon1|620329	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|620786	GT34	GlycosylTransferase Family 34
+Neocon1|620805	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|620805	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|620805	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|621054	GT20	GlycosylTransferase Family 20
+Neocon1|621068	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|621068	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|621068	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|621068	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|621068	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|621068	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|621068	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|621280	CE4	Carbohydrate Esterase Family 4
+Neocon1|621575	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|621575	GH18	Glycoside Hydrolase Family 18
+Neocon1|621968	GH45	Glycoside Hydrolase Family 45
+Neocon1|621968	DOC2	
+Neocon1|621968	DOC2	
+Neocon1|621968	DOC2	
+Neocon1|621968	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|622043	DOC2	
+Neocon1|622043	DOC2	
+Neocon1|622043	GH45	Glycoside Hydrolase Family 45
+Neocon1|622118	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|622118	DOC2	
+Neocon1|622118	DOC2	
+Neocon1|622118	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|622118	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|622118	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|622325	DOC2	
+Neocon1|622325	DOC2	
+Neocon1|622325	GH5_1	Glycoside Hydrolase Family 5 / Subf 1
+Neocon1|622325	DOC2	
+Neocon1|622562	DOC2	
+Neocon1|622562	DOC2	
+Neocon1|622705	GT34	GlycosylTransferase Family 34
+Neocon1|622741	DOC2	
+Neocon1|622741	DOC2	
+Neocon1|623251	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|623251	GH6	Glycoside Hydrolase Family 6
+Neocon1|623425	DOC2	
+Neocon1|623425	DOC2	
+Neocon1|623425	GH5_1	Glycoside Hydrolase Family 5 / Subf 1
+Neocon1|623425	DOC2	
+Neocon1|623524	GH26	Glycoside Hydrolase Family 26
+Neocon1|623524	CBM35	Carbohydrate-Binding Module Family 35
+Neocon1|623524	DOC2	
+Neocon1|623524	DOC2	
+Neocon1|623694	CE4	Carbohydrate Esterase Family 4
+Neocon1|623696	CE4	Carbohydrate Esterase Family 4
+Neocon1|623737	CBM87	Carbohydrate-Binding Module Family 87
+Neocon1|624298	EXPN	Distantly related to plant expansins
+Neocon1|624486	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|625228	GH18	Glycoside Hydrolase Family 18
+Neocon1|625333	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|625458	DOC2	
+Neocon1|625458	DOC2	
+Neocon1|626032	GH48	Glycoside Hydrolase Family 48
+Neocon1|626032	DOC2	
+Neocon1|626032	DOC2	
+Neocon1|626300	DOC2	
+Neocon1|626300	DOC2	
+Neocon1|626300	GH45	Glycoside Hydrolase Family 45
+Neocon1|626305	DOC2	
+Neocon1|626305	DOC2	
+Neocon1|626305	GH16	Glycoside Hydrolase Family 16
+Neocon1|626431	DOC2	
+Neocon1|626431	GH11	Glycoside Hydrolase Family 11
+Neocon1|626431	DOC2	
+Neocon1|626863	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|626863	GH6	Glycoside Hydrolase Family 6
+Neocon1|626863	GH6	Glycoside Hydrolase Family 6
+Neocon1|626900	DOC2	
+Neocon1|626900	DOC2	
+Neocon1|626900	DOC2	
+Neocon1|626900	GH6	Glycoside Hydrolase Family 6
+Neocon1|626900	GH3	Glycoside Hydrolase Family 3
+Neocon1|627052	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|627052	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|627168	DOC2	
+Neocon1|627168	CBM29	Carbohydrate-Binding Module Family 29
+Neocon1|627168	DOC2	
+Neocon1|627168	CBM29	Carbohydrate-Binding Module Family 29
+Neocon1|627168	DOC2	
+Neocon1|627458	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|627562	DOC2	
+Neocon1|627562	DOC2	
+Neocon1|627578	DOC2	
+Neocon1|627578	DOC2	
+Neocon1|627578	DOC2	
+Neocon1|627588	DOC2	
+Neocon1|627588	DOC2	
+Neocon1|627588	DOC2	
+Neocon1|628150	GH3	Glycoside Hydrolase Family 3
+Neocon1|628171	GH9	Glycoside Hydrolase Family 9
+Neocon1|628603	GH3	Glycoside Hydrolase Family 3
+Neocon1|628616	DOC2	
+Neocon1|628616	DOC2	
+Neocon1|628616	GH45	Glycoside Hydrolase Family 45
+Neocon1|628616	DOC2	
+Neocon1|628616	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|628876	DOC2	
+Neocon1|628876	GH9	Glycoside Hydrolase Family 9
+Neocon1|628876	DOC2	
+Neocon1|628876	DOC2	
+Neocon1|628885	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|628972	GH114	Glycoside Hydrolase Family 114
+Neocon1|629085	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|629085	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|629085	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|629085	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|629149	GH11	Glycoside Hydrolase Family 11
+Neocon1|629210	GH16	Glycoside Hydrolase Family 16
+Neocon1|629210	CBM52	Carbohydrate-Binding Module Family 52
+Neocon1|629210	CBM52	Carbohydrate-Binding Module Family 52
+Neocon1|629388	GH45	Glycoside Hydrolase Family 45
+Neocon1|629388	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|629905	DOC2	
+Neocon1|629905	DOC2	
+Neocon1|629905	GH3	Glycoside Hydrolase Family 3
+Neocon1|630130	DOC2	
+Neocon1|630130	GH10	Glycoside Hydrolase Family 10
+Neocon1|630131	GH16	Glycoside Hydrolase Family 16
+Neocon1|630462	DOC2	
+Neocon1|630462	DOC2	
+Neocon1|630542	GH10	Glycoside Hydrolase Family 10
+Neocon1|630868	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|630941	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|630967	DOC2	
+Neocon1|630967	DOC2	
+Neocon1|631151	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|631151	CE8	Carbohydrate Esterase Family 8
+Neocon1|631161	DOC2	
+Neocon1|631161	GH11	Glycoside Hydrolase Family 11
+Neocon1|631161	GH11	Glycoside Hydrolase Family 11
+Neocon1|631161	GH11	Glycoside Hydrolase Family 11
+Neocon1|631161	DOC2	
+Neocon1|631161	CE4	Carbohydrate Esterase Family 4
+Neocon1|631186	CE18	Carbohydrate Esterase Family 18
+Neocon1|631186	CBM87	Carbohydrate-Binding Module Family 87
+Neocon1|631199	GT3	GlycosylTransferase Family 3
+Neocon1|631470	GH133	Glycoside Hydrolase Family 133
+Neocon1|631470	GH13_25	Glycoside Hydrolase Family 13 / Subf 25
+Neocon1|631516	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|631516	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|631516	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|631571	GH114	Glycoside Hydrolase Family 114
+Neocon1|631876	DOC2	
+Neocon1|631876	DOC2	
+Neocon1|631882	GT2	GlycosylTransferase Family 2
+Neocon1|631948	GH11	Glycoside Hydrolase Family 11
+Neocon1|632026	DOC2	
+Neocon1|632026	DOC2	
+Neocon1|632058	DOC2	
+Neocon1|632058	DOC2	
+Neocon1|632152	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|632152	GH18	Glycoside Hydrolase Family 18
+Neocon1|632152	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|632152	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|632199	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|632199	PL1	Polysaccharide Lyase Family 1
+Neocon1|632199	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|632199	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|632596	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|632596	GH11	Glycoside Hydrolase Family 11
+Neocon1|632596	GH11	Glycoside Hydrolase Family 11
+Neocon1|632616	PL4_dist	Polysaccharide Lyase Family 4
+Neocon1|632808	GH10	Glycoside Hydrolase Family 10
+Neocon1|632808	DOC2	
+Neocon1|632808	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|632808	DOC2	
+Neocon1|633451	EXPN	Distantly related to plant expansins
+Neocon1|633513	GH115	Glycoside Hydrolase Family 115
+Neocon1|633548	CE4	Carbohydrate Esterase Family 4
+Neocon1|633548	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|633594	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|633594	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|633594	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|633611	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|633611	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|633611	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|633611	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|633687	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|633688	CBM29	Carbohydrate-Binding Module Family 29
+Neocon1|633688	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|633701	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|633701	GH11	Glycoside Hydrolase Family 11
+Neocon1|634061	GT71	GlycosylTransferase Family 71
+Neocon1|634216	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|634216	CE8	Carbohydrate Esterase Family 8
+Neocon1|634234	DOC2	
+Neocon1|634234	DOC2	
+Neocon1|634234	EXPN	Distantly related to plant expansins
+Neocon1|634234	DOC2	
+Neocon1|634282	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|634282	CE18	Carbohydrate Esterase Family 18
+Neocon1|634282	CBM87	Carbohydrate-Binding Module Family 87
+Neocon1|634282	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|634500	GT71	GlycosylTransferase Family 71
+Neocon1|634553	CBM6	Carbohydrate-Binding Module Family 6
+Neocon1|634553	GH43	Glycoside Hydrolase Family 43
+Neocon1|634570	GH47	Glycoside Hydrolase Family 47
+Neocon1|634781	CBM91	Carbohydrate-Binding Module Family 91
+Neocon1|634781	DOC2	
+Neocon1|634781	GH43	Glycoside Hydrolase Family 43
+Neocon1|634781	DOC2	
+Neocon1|634781	CBM22	Carbohydrate-Binding Module Family 22
+Neocon1|635007	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|635007	GH6	Glycoside Hydrolase Family 6
+Neocon1|635073	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|635337	GT41	GlycosylTransferase Family 41
+Neocon1|635579	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|635805	CBM32	Carbohydrate-Binding Module Family 32
+Neocon1|636153	GH10	Glycoside Hydrolase Family 10
+Neocon1|636153	DOC2	
+Neocon1|636153	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|636153	DOC2	
+Neocon1|636464	GT20	GlycosylTransferase Family 20
+Neocon1|636480	CE4	Carbohydrate Esterase Family 4
+Neocon1|636496	CE4	Carbohydrate Esterase Family 4
+Neocon1|636643	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|636643	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|636643	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|636865	CE18	Carbohydrate Esterase Family 18
+Neocon1|636865	CBM87	Carbohydrate-Binding Module Family 87
+Neocon1|636894	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|636894	GH18	Glycoside Hydrolase Family 18
+Neocon1|636894	DOC2	
+Neocon1|636894	DOC2	
+Neocon1|636895	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|636895	GH18	Glycoside Hydrolase Family 18
+Neocon1|636895	DOC2	
+Neocon1|636895	DOC2	
+Neocon1|637232	DOC2	
+Neocon1|637232	DOC2	
+Neocon1|637232	GH45	Glycoside Hydrolase Family 45
+Neocon1|637473	GH114	Glycoside Hydrolase Family 114
+Neocon1|637492	GT8	GlycosylTransferase Family 8
+Neocon1|637559	GH10	Glycoside Hydrolase Family 10
+Neocon1|638019	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|638059	CE18	Carbohydrate Esterase Family 18
+Neocon1|638059	CBM87	Carbohydrate-Binding Module Family 87
+Neocon1|638360	GH13	Glycoside Hydrolase Family 13
+Neocon1|638519	GH114	Glycoside Hydrolase Family 114
+Neocon1|638526	DOC2	
+Neocon1|638526	DOC2	
+Neocon1|638649	DOC2	
+Neocon1|638649	GH9	Glycoside Hydrolase Family 9
+Neocon1|638649	DOC2	
+Neocon1|638651	DOC2	
+Neocon1|638651	DOC2	
+Neocon1|638654	DOC2	
+Neocon1|638716	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|638716	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|638716	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|638716	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|638954	DOC2	
+Neocon1|638954	GH26	Glycoside Hydrolase Family 26
+Neocon1|639069	DOC2	
+Neocon1|639069	GH105	Glycoside Hydrolase Family 105
+Neocon1|639077	DOC2	
+Neocon1|639077	GH114	Glycoside Hydrolase Family 114
+Neocon1|639077	DOC2	
+Neocon1|639077	DOC2	
+Neocon1|639087	GH114	Glycoside Hydrolase Family 114
+Neocon1|639381	DOC2	
+Neocon1|639381	DOC2	
+Neocon1|639381	GH45	Glycoside Hydrolase Family 45
+Neocon1|639552	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|639552	GH11	Glycoside Hydrolase Family 11
+Neocon1|639572	GH114	Glycoside Hydrolase Family 114
+Neocon1|639665	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|639665	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|639665	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|639665	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|639665	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|639665	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|639665	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|639746	CE4	Carbohydrate Esterase Family 4
+Neocon1|639748	CE4	Carbohydrate Esterase Family 4
+Neocon1|639917	DOC2	
+Neocon1|639917	DOC2	
+Neocon1|639987	GT39	GlycosylTransferase Family 39
+Neocon1|640337	GT4	GlycosylTransferase Family 4
+Neocon1|640448	DOC2	
+Neocon1|640448	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|640448	DOC2	
+Neocon1|640679	GH3	Glycoside Hydrolase Family 3
+Neocon1|640870	CE4	Carbohydrate Esterase Family 4
+Neocon1|640910	GH11	Glycoside Hydrolase Family 11
+Neocon1|640910	GH11	Glycoside Hydrolase Family 11
+Neocon1|641176	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|641176	GH18	Glycoside Hydrolase Family 18
+Neocon1|641176	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|641176	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|641279	DOC2	
+Neocon1|641490	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|641490	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|641490	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|641525	GH5_7	Glycoside Hydrolase Family 5 / Subf 7
+Neocon1|641664	EXPN	Distantly related to plant expansins
+Neocon1|641664	DOC2	
+Neocon1|641664	DOC2	
+Neocon1|641664	CBM63	Carbohydrate-Binding Module Family 63
+Neocon1|642019	GT2	GlycosylTransferase Family 2
+Neocon1|642174	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|642560	GH5_7	Glycoside Hydrolase Family 5 / Subf 7
+Neocon1|642632	CE18	Carbohydrate Esterase Family 18
+Neocon1|642632	CBM87	Carbohydrate-Binding Module Family 87
+Neocon1|644069	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|644306	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|644306	CE12	Carbohydrate Esterase Family 12
+Neocon1|644498	DOC2	
+Neocon1|644498	DOC2	
+Neocon1|644498	GH5_5	Glycoside Hydrolase Family 5 / Subf 5
+Neocon1|644498	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|644501	EXPN	Distantly related to plant expansins
+Neocon1|644501	CBM63	Carbohydrate-Binding Module Family 63
+Neocon1|644776	GH48	Glycoside Hydrolase Family 48
+Neocon1|644781	GH48	Glycoside Hydrolase Family 48
+Neocon1|645022	GH3	Glycoside Hydrolase Family 3
+Neocon1|645351	DOC2	
+Neocon1|645351	DOC2	
+Neocon1|645389	GT1	GlycosylTransferase Family 1
+Neocon1|645701	GH16	Glycoside Hydrolase Family 16
+Neocon1|645813	GT3	GlycosylTransferase Family 3
+Neocon1|645864	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|645979	CBM48	Carbohydrate-Binding Module Family 48
+Neocon1|646175	DOC2	
+Neocon1|646175	DOC2	
+Neocon1|646180	DOC2	
+Neocon1|646180	DOC2	
+Neocon1|646203	DOC2	
+Neocon1|646203	DOC2	
+Neocon1|646203	GH45	Glycoside Hydrolase Family 45
+Neocon1|646216	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|646216	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|646216	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|646216	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|646216	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|646216	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|646216	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|646216	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|646216	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|646216	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|646793	GH3	Glycoside Hydrolase Family 3
+Neocon1|646818	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|646818	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|646818	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|646914	CBM48	Carbohydrate-Binding Module Family 48
+Neocon1|646914	GH13_8	Glycoside Hydrolase Family 13 / Subf 8
+Neocon1|647209	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|647209	PL1	Polysaccharide Lyase Family 1
+Neocon1|647213	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|647213	CE12	Carbohydrate Esterase Family 12
+Neocon1|647312	DOC2	
+Neocon1|647312	DOC2	
+Neocon1|647312	PL4_dist	Polysaccharide Lyase Family 4
+Neocon1|647320	GH114	Glycoside Hydrolase Family 114
+Neocon1|647801	DOC2	
+Neocon1|647801	GH9	Glycoside Hydrolase Family 9
+Neocon1|647801	DOC2	
+Neocon1|647801	DOC2	
+Neocon1|648541	EXPN	Distantly related to plant expansins
+Neocon1|648792	GH3	Glycoside Hydrolase Family 3
+Neocon1|648839	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|648839	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|648839	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|648839	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|648839	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|648839	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|648997	CE6	Carbohydrate Esterase Family 6
+Neocon1|648997	DOC2	
+Neocon1|648997	DOC2	
+Neocon1|649256	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|649256	PL1	Polysaccharide Lyase Family 1
+Neocon1|649257	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|649257	PL1	Polysaccharide Lyase Family 1
+Neocon1|649260	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|649260	PL1	Polysaccharide Lyase Family 1
+Neocon1|649734	GH11	Glycoside Hydrolase Family 11
+Neocon1|649734	GH11	Glycoside Hydrolase Family 11
+Neocon1|649777	DOC2	
+Neocon1|649777	DOC2	
+Neocon1|649777	DOC2	
+Neocon1|649777	DOC2	
+Neocon1|649777	DOC2	
+Neocon1|649777	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|649781	DOC2	
+Neocon1|649781	DOC2	
+Neocon1|649781	DOC2	
+Neocon1|649781	DOC2	
+Neocon1|649781	DOC2	
+Neocon1|649781	DOC2	
+Neocon1|649781	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|649784	DOC2	
+Neocon1|649784	DOC2	
+Neocon1|649784	DOC2	
+Neocon1|649784	DOC2	
+Neocon1|649784	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|649784	DOC2	
+Neocon1|649784	DOC2	
+Neocon1|649784	DOC2	
+Neocon1|649784	DOC2	
+Neocon1|649784	DOC2	
+Neocon1|649802	EXPN	Distantly related to plant expansins
+Neocon1|649802	CBM63	Carbohydrate-Binding Module Family 63
+Neocon1|649839	GH64	Glycoside Hydrolase Family 64
+Neocon1|649839	CBM52	Carbohydrate-Binding Module Family 52
+Neocon1|649841	GH64	Glycoside Hydrolase Family 64
+Neocon1|649841	CBM52	Carbohydrate-Binding Module Family 52
+Neocon1|650283	DOC2	
+Neocon1|650283	DOC2	
+Neocon1|650283	GH9	Glycoside Hydrolase Family 9
+Neocon1|650283	DOC2	
+Neocon1|650328	DOC2	
+Neocon1|650328	DOC2	
+Neocon1|650328	DOC2	
+Neocon1|650341	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|650341	PL1	Polysaccharide Lyase Family 1
+Neocon1|650429	CBM6	Carbohydrate-Binding Module Family 6
+Neocon1|650429	GH43	Glycoside Hydrolase Family 43
+Neocon1|650508	DOC2	
+Neocon1|650508	GH26	Glycoside Hydrolase Family 26
+Neocon1|650508	GH26	Glycoside Hydrolase Family 26
+Neocon1|650522	DOC2	
+Neocon1|650522	DOC2	
+Neocon1|650915	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|650915	PL3	Polysaccharide Lyase Family 3
+Neocon1|651045	GT71	GlycosylTransferase Family 71
+Neocon1|651150	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|651150	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|651150	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|651609	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|651609	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|651609	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|651609	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|651633	CBM48	Carbohydrate-Binding Module Family 48
+Neocon1|651633	GH13_8	Glycoside Hydrolase Family 13 / Subf 8
+Neocon1|651674	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|651674	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|651674	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|651674	CE4	Carbohydrate Esterase Family 4
+Neocon1|651839	DOC2	
+Neocon1|651839	DOC2	
+Neocon1|651984	CBM87	Carbohydrate-Binding Module Family 87
+Neocon1|652276	GT2	GlycosylTransferase Family 2
+Neocon1|652581	GT39	GlycosylTransferase Family 39
+Neocon1|653374	DOC2	
+Neocon1|653374	DOC2	
+Neocon1|653376	DOC2	
+Neocon1|653376	DOC2	
+Neocon1|653380	DOC2	
+Neocon1|653380	DOC2	
+Neocon1|653519	GH114	Glycoside Hydrolase Family 114
+Neocon1|653642	GT17	GlycosylTransferase Family 17
+Neocon1|653893	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|653893	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|653893	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|653893	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|653893	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|653921	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|653921	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|653921	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|654013	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|654013	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|654013	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|654397	GT10	GlycosylTransferase Family 10
+Neocon1|654410	GH11	Glycoside Hydrolase Family 11
+Neocon1|654411	GH11	Glycoside Hydrolase Family 11
+Neocon1|654826	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|655058	PL3_2	Polysaccharide Lyase Family 3 / Subf 2
+Neocon1|655064	PL3_2	Polysaccharide Lyase Family 3 / Subf 2
+Neocon1|655595	GT2	GlycosylTransferase Family 2
+Neocon1|655613	GT2	GlycosylTransferase Family 2
+Neocon1|655616	GT2	GlycosylTransferase Family 2
+Neocon1|655622	GT2	GlycosylTransferase Family 2
+Neocon1|655981	GT2	GlycosylTransferase Family 2
+Neocon1|656227	CBM52	Carbohydrate-Binding Module Family 52
+Neocon1|656751	GT2	GlycosylTransferase Family 2
+Neocon1|656934	CE4	Carbohydrate Esterase Family 4
+Neocon1|657600	PL4_dist	Polysaccharide Lyase Family 4
+Neocon1|657693	DOC2	
+Neocon1|657693	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|661474	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|661474	DOC2	
+Neocon1|661584	GT2	GlycosylTransferase Family 2
+Neocon1|663269	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|663269	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|664269	PL4_dist	Polysaccharide Lyase Family 4
+Neocon1|664434	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|664434	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|666459	GT101	GlycosylTransferase Family 101
+Neocon1|666462	GT2	GlycosylTransferase Family 2
+Neocon1|666659	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|667740	GH5_5	Glycoside Hydrolase Family 5 / Subf 5
+Neocon1|667740	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|667740	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|667740	GH5_5	Glycoside Hydrolase Family 5 / Subf 5
+Neocon1|667740	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|667740	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|668945	GH37	Glycoside Hydrolase Family 37
+Neocon1|669618	GH11	Glycoside Hydrolase Family 11
+Neocon1|670019	DOC2	
+Neocon1|670019	DOC2	
+Neocon1|671060	GT17	GlycosylTransferase Family 17
+Neocon1|671391	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|671652	DOC2	
+Neocon1|671652	DOC2	
+Neocon1|672019	GH3	Glycoside Hydrolase Family 3
+Neocon1|673394	GT39	GlycosylTransferase Family 39
+Neocon1|673649	GH31	Glycoside Hydrolase Family 31
+Neocon1|675918	PL4_dist	Polysaccharide Lyase Family 4
+Neocon1|733013	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|733013	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|733013	DOC2	
+Neocon1|733013	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|733013	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|733013	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|733013	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|733013	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|733013	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|733013	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|733023	DOC2	
+Neocon1|733023	DOC2	
+Neocon1|733023	DOC2	
+Neocon1|733023	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|733023	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|733023	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|733023	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|733023	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|733528	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|733925	PL3_2	Polysaccharide Lyase Family 3 / Subf 2
+Neocon1|734100	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|734100	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|734771	GT2	GlycosylTransferase Family 2
+Neocon1|736213	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|736213	PL3_2	Polysaccharide Lyase Family 3 / Subf 2
+Neocon1|737113	DOC2	
+Neocon1|737113	DOC2	
+Neocon1|737113	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|737113	DOC2	
+Neocon1|737113	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|737113	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|737113	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|737113	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|737113	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|737747	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|739220	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|740809	DOC2	
+Neocon1|740809	GH11	Glycoside Hydrolase Family 11
+Neocon1|740882	GH11	Glycoside Hydrolase Family 11
+Neocon1|740932	GH1	Glycoside Hydrolase Family 1
+Neocon1|743013	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|743013	PL1	Polysaccharide Lyase Family 1
+Neocon1|743786	GT8	GlycosylTransferase Family 8
+Neocon1|746388	GH45	Glycoside Hydrolase Family 45
+Neocon1|746388	DOC2	
+Neocon1|746388	DOC2	
+Neocon1|747070	CBM12	Carbohydrate-Binding Module Family 12
+Neocon1|747401	DOC2	
+Neocon1|747883	DOC2	
+Neocon1|747883	DOC2	
+Neocon1|748249	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|748753	GH3	Glycoside Hydrolase Family 3
+Neocon1|748755	GH3	Glycoside Hydrolase Family 3
+Neocon1|749537	GH31	Glycoside Hydrolase Family 31
+Neocon1|750181	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|750783	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|751317	GT2	GlycosylTransferase Family 2
+Neocon1|751364	GH5_7	Glycoside Hydrolase Family 5 / Subf 7
+Neocon1|751839	PL4_dist	Polysaccharide Lyase Family 4
+Neocon1|752219	GH43	Glycoside Hydrolase Family 43
+Neocon1|752346	GT2	GlycosylTransferase Family 2
+Neocon1|753311	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|753311	GH11	Glycoside Hydrolase Family 11
+Neocon1|753338	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|754888	DOC2	
+Neocon1|754888	GH16	Glycoside Hydrolase Family 16
+Neocon1|754888	GH16	Glycoside Hydrolase Family 16
+Neocon1|754888	GH16	Glycoside Hydrolase Family 16
+Neocon1|754888	DOC2	
+Neocon1|754888	CBM52	Carbohydrate-Binding Module Family 52
+Neocon1|755055	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|756382	GH45	Glycoside Hydrolase Family 45
+Neocon1|756382	DOC2	
+Neocon1|756382	DOC2	
+Neocon1|756382	DOC2	
+Neocon1|756382	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|757648	GH5_7	Glycoside Hydrolase Family 5 / Subf 7
+Neocon1|758094	GT101	GlycosylTransferase Family 101
+Neocon1|758824	CBM48	Carbohydrate-Binding Module Family 48
+Neocon1|758943	GH24	Glycoside Hydrolase Family 24
+Neocon1|759781	CE4	Carbohydrate Esterase Family 4
+Neocon1|759783	CE4	Carbohydrate Esterase Family 4
+Neocon1|759887	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|759887	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|760747	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|760747	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|761215	GH6	Glycoside Hydrolase Family 6
+Neocon1|761226	DOC2	
+Neocon1|761226	DOC2	
+Neocon1|761226	GH6	Glycoside Hydrolase Family 6
+Neocon1|761229	DOC2	
+Neocon1|761229	DOC2	
+Neocon1|761229	GH6	Glycoside Hydrolase Family 6
+Neocon1|761231	DOC2	
+Neocon1|761231	DOC2	
+Neocon1|761231	GH6	Glycoside Hydrolase Family 6
+Neocon1|761235	DOC2	
+Neocon1|761235	DOC2	
+Neocon1|761235	GH6	Glycoside Hydrolase Family 6
+Neocon1|761236	GH6	Glycoside Hydrolase Family 6
+Neocon1|761240	DOC2	
+Neocon1|761240	DOC2	
+Neocon1|761240	GH6	Glycoside Hydrolase Family 6
+Neocon1|761241	DOC2	
+Neocon1|761241	DOC2	
+Neocon1|761241	GH6	Glycoside Hydrolase Family 6
+Neocon1|761242	DOC2	
+Neocon1|761242	DOC2	
+Neocon1|761242	GH6	Glycoside Hydrolase Family 6
+Neocon1|761549	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|762797	DOC2	
+Neocon1|762797	DOC2	
+Neocon1|762797	GH10	Glycoside Hydrolase Family 10
+Neocon1|764747	CBM48	Carbohydrate-Binding Module Family 48
+Neocon1|764761	DOC2	
+Neocon1|764761	DOC2	
+Neocon1|765449	GH3	Glycoside Hydrolase Family 3
+Neocon1|765624	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|765682	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|765687	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|765687	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|765687	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|765816	DOC2	
+Neocon1|765816	DOC2	
+Neocon1|765816	GH6	Glycoside Hydrolase Family 6
+Neocon1|767214	DOC2	
+Neocon1|767214	GH43	Glycoside Hydrolase Family 43
+Neocon1|768732	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|768736	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|771324	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|771803	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|771803	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|771904	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|771904	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|771904	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|771904	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|772040	GH47	Glycoside Hydrolase Family 47
+Neocon1|772925	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|772925	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|772925	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|773084	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|773084	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|773084	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|773153	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|773153	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|773153	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|773168	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|773168	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|773201	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|773367	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|773367	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|773368	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|773759	GH11	Glycoside Hydrolase Family 11
+Neocon1|773812	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|773812	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|773812	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|773858	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|773858	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|773858	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|773985	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|773985	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|773986	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|774085	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|774085	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|774085	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|774085	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|774286	GT34	GlycosylTransferase Family 34
+Neocon1|774354	CE4	Carbohydrate Esterase Family 4
+Neocon1|774354	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|774373	DOC2	
+Neocon1|774373	DOC2	
+Neocon1|774373	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|774373	DOC2	
+Neocon1|774373	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|774373	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|774373	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|774373	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|774373	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|774374	DOC2	
+Neocon1|774374	DOC2	
+Neocon1|774374	DOC2	
+Neocon1|774374	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|774374	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|774374	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|774374	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|774552	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|774552	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|774552	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|774552	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|774561	PL3_2	Polysaccharide Lyase Family 3 / Subf 2
+Neocon1|774602	DOC2	
+Neocon1|774602	CE15	Carbohydrate Esterase Family 15
+Neocon1|774602	DOC2	
+Neocon1|774691	PL3_2	Polysaccharide Lyase Family 3 / Subf 2
+Neocon1|774703	PL3_2	Polysaccharide Lyase Family 3 / Subf 2
+Neocon1|774704	PL3_2	Polysaccharide Lyase Family 3 / Subf 2
+Neocon1|774834	DOC2	
+Neocon1|774834	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|774834	DOC2	
+Neocon1|775000	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|775095	GH5_7	Glycoside Hydrolase Family 5 / Subf 7
+Neocon1|775101	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|775101	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|775263	CBM29	Carbohydrate-Binding Module Family 29
+Neocon1|775263	CBM29	Carbohydrate-Binding Module Family 29
+Neocon1|775263	CBM29	Carbohydrate-Binding Module Family 29
+Neocon1|775263	CBM29	Carbohydrate-Binding Module Family 29
+Neocon1|775263	DOC2	
+Neocon1|775263	GH10	Glycoside Hydrolase Family 10
+Neocon1|775263	DOC2	
+Neocon1|775263	DOC2	
+Neocon1|775265	DOC2	
+Neocon1|775265	GH9	Glycoside Hydrolase Family 9
+Neocon1|775265	DOC2	
+Neocon1|775329	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|775329	PL3_2	Polysaccharide Lyase Family 3 / Subf 2
+Neocon1|775369	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|775369	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|775369	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|775369	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|775369	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|775369	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|775369	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|775412	GH11	Glycoside Hydrolase Family 11
+Neocon1|775412	GH11	Glycoside Hydrolase Family 11
+Neocon1|775412	DOC2	
+Neocon1|775412	GH11	Glycoside Hydrolase Family 11
+Neocon1|775412	GH11	Glycoside Hydrolase Family 11
+Neocon1|775412	GH11	Glycoside Hydrolase Family 11
+Neocon1|775476	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|775476	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|775476	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|775542	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|775542	PL3_2	Polysaccharide Lyase Family 3 / Subf 2
+Neocon1|775560	CE4	Carbohydrate Esterase Family 4
+Neocon1|775644	GH11	Glycoside Hydrolase Family 11
+Neocon1|775644	GH11	Glycoside Hydrolase Family 11
+Neocon1|775644	GH11	Glycoside Hydrolase Family 11
+Neocon1|775644	CE4	Carbohydrate Esterase Family 4
+Neocon1|775657	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|775721	DOC2	
+Neocon1|775721	DOC2	
+Neocon1|775721	GH115	Glycoside Hydrolase Family 115
+Neocon1|776018	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|776054	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|776054	CE18	Carbohydrate Esterase Family 18
+Neocon1|776054	CBM87	Carbohydrate-Binding Module Family 87
+Neocon1|776054	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|776741	GT66	GlycosylTransferase Family 66
+Neocon1|776773	GH45	Glycoside Hydrolase Family 45
+Neocon1|776790	CE4	Carbohydrate Esterase Family 4
+Neocon1|776851	GT71	GlycosylTransferase Family 71
+Neocon1|776851	GT71	GlycosylTransferase Family 71
+Neocon1|777075	GH48	Glycoside Hydrolase Family 48
+Neocon1|777075	DOC2	
+Neocon1|777075	DOC2	
+Neocon1|777168	GT2	GlycosylTransferase Family 2
+Neocon1|777321	GH5_7	Glycoside Hydrolase Family 5 / Subf 7
+Neocon1|777322	GH5_7	Glycoside Hydrolase Family 5 / Subf 7
+Neocon1|777351	DOC2	
+Neocon1|777351	DOC2	
+Neocon1|777443	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|777443	GH10	Glycoside Hydrolase Family 10
+Neocon1|777484	CE4	Carbohydrate Esterase Family 4
+Neocon1|777515	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|777515	GH6	Glycoside Hydrolase Family 6
+Neocon1|777532	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|777532	GH6	Glycoside Hydrolase Family 6
+Neocon1|777644	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|777644	GH11	Glycoside Hydrolase Family 11
+Neocon1|777725	CBM29	Carbohydrate-Binding Module Family 29
+Neocon1|777725	CBM29	Carbohydrate-Binding Module Family 29
+Neocon1|777725	CBM29	Carbohydrate-Binding Module Family 29
+Neocon1|777725	DOC2	
+Neocon1|777725	DOC2	
+Neocon1|777725	GH10	Glycoside Hydrolase Family 10
+Neocon1|777725	DOC2	
+Neocon1|777861	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|777862	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|777905	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|777905	GH45	Glycoside Hydrolase Family 45
+Neocon1|777905	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|777930	GH3	Glycoside Hydrolase Family 3
+Neocon1|778515	DOC2	
+Neocon1|778515	DOC2	
+Neocon1|778515	GH5_5	Glycoside Hydrolase Family 5 / Subf 5
+Neocon1|778515	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|778516	GH5_5	Glycoside Hydrolase Family 5 / Subf 5
+Neocon1|778516	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|778516	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|778516	GH5_5	Glycoside Hydrolase Family 5 / Subf 5
+Neocon1|778516	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|778516	DOC2	
+Neocon1|778516	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|778516	DOC2	
+Neocon1|778745	GH11	Glycoside Hydrolase Family 11
+Neocon1|778745	GH11	Glycoside Hydrolase Family 11
+Neocon1|778745	DOC2	
+Neocon1|778745	DOC2	
+Neocon1|778786	DOC2	
+Neocon1|778786	DOC2	
+Neocon1|778786	DOC2	
+Neocon1|778786	DOC2	
+Neocon1|778786	DOC2	
+Neocon1|778786	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|778971	DOC2	
+Neocon1|778971	PL4_dist	Polysaccharide Lyase Family 4
+Neocon1|779078	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|779078	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|779078	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|779078	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|779202	DOC2	
+Neocon1|779202	DOC2	
+Neocon1|779306	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|779419	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|779419	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|779441	DOC2	
+Neocon1|779441	DOC2	
+Neocon1|779442	DOC2	
+Neocon1|779442	DOC2	
+Neocon1|779442	DOC2	
+Neocon1|779447	DOC2	
+Neocon1|779447	DOC2	
+Neocon1|779447	DOC2	
+Neocon1|779447	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|779447	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|779447	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|779447	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|779448	GH3	Glycoside Hydrolase Family 3
+Neocon1|779450	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|779450	DOC2	
+Neocon1|779450	DOC2	
+Neocon1|779450	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|779450	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|779452	DOC2	
+Neocon1|779452	DOC2	
+Neocon1|779452	DOC2	
+Neocon1|779452	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|779452	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|779452	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|779452	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|779461	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|779461	DOC2	
+Neocon1|779461	DOC2	
+Neocon1|779461	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|779461	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|779461	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|779461	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|779461	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|779471	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|779471	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|779477	GT4	GlycosylTransferase Family 4
+Neocon1|779488	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|779488	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|779488	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|779820	PL1	Polysaccharide Lyase Family 1
+Neocon1|779839	GH26	Glycoside Hydrolase Family 26
+Neocon1|779839	CBM35	Carbohydrate-Binding Module Family 35
+Neocon1|779839	DOC2	
+Neocon1|779839	DOC2	
+Neocon1|779943	DOC2	
+Neocon1|779943	DOC2	
+Neocon1|779943	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|780001	DOC2	
+Neocon1|780001	GH9	Glycoside Hydrolase Family 9
+Neocon1|780001	DOC2	
+Neocon1|780001	DOC2	
+Neocon1|780130	GH11	Glycoside Hydrolase Family 11
+Neocon1|780136	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|780136	GH10	Glycoside Hydrolase Family 10
+Neocon1|780138	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|780138	GH10	Glycoside Hydrolase Family 10
+Neocon1|780252	GH45	Glycoside Hydrolase Family 45
+Neocon1|780252	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|780514	GH38	Glycoside Hydrolase Family 38
+Neocon1|780556	GH48	Glycoside Hydrolase Family 48
+Neocon1|780556	DOC2	
+Neocon1|780556	DOC2	
+Neocon1|780724	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|780724	PL4_dist	Polysaccharide Lyase Family 4
+Neocon1|780800	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|781016	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|781016	GH10	Glycoside Hydrolase Family 10
+Neocon1|781053	DOC2	
+Neocon1|781053	GH11	Glycoside Hydrolase Family 11
+Neocon1|781053	GH11	Glycoside Hydrolase Family 11
+Neocon1|781053	DOC2	
+Neocon1|781053	DOC2	
+Neocon1|781053	CE4	Carbohydrate Esterase Family 4
+Neocon1|781084	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|781084	GH43	Glycoside Hydrolase Family 43
+Neocon1|781222	DOC2	
+Neocon1|781222	GH114	Glycoside Hydrolase Family 114
+Neocon1|781222	DOC2	
+Neocon1|781222	DOC2	
+Neocon1|781227	DOC2	
+Neocon1|781227	DOC2	
+Neocon1|781227	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|781394	GH48	Glycoside Hydrolase Family 48
+Neocon1|781394	DOC2	
+Neocon1|781394	DOC2	
+Neocon1|781642	DOC2	
+Neocon1|781642	GH11	Glycoside Hydrolase Family 11
+Neocon1|781642	DOC2	
+Neocon1|781642	CE1	Carbohydrate Esterase Family 1
+Neocon1|781683	PL4_dist	Polysaccharide Lyase Family 4
+Neocon1|781684	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|781684	GH10	Glycoside Hydrolase Family 10
+Neocon1|781690	PL4_dist	Polysaccharide Lyase Family 4
+Neocon1|781696	CE6	Carbohydrate Esterase Family 6
+Neocon1|781696	DOC2	
+Neocon1|781696	DOC2	
+Neocon1|781715	CBM48	Carbohydrate-Binding Module Family 48
+Neocon1|781815	DOC2	
+Neocon1|781815	DOC2	
+Neocon1|781855	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|781914	Myosin_motor	Glycosyltransferase Family 2
+Neocon1|781914	GT2	GlycosylTransferase Family 2
+Neocon1|782035	PL1_6	Polysaccharide Lyase Family 1 / Subf 6
+Neocon1|782137	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|782140	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|782146	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|782176	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|782176	DOC2	
+Neocon1|782176	DOC2	
+Neocon1|782176	DOC2	
+Neocon1|782176	DOC2	
+Neocon1|782191	CBM29	Carbohydrate-Binding Module Family 29
+Neocon1|782191	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|782239	CBM6	Carbohydrate-Binding Module Family 6
+Neocon1|782239	GH43	Glycoside Hydrolase Family 43
+Neocon1|782322	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|782322	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|782322	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|782322	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|782348	GT22	GlycosylTransferase Family 22
+Neocon1|782354	GH11	Glycoside Hydrolase Family 11
+Neocon1|782520	EXPN	Distantly related to plant expansins
+Neocon1|782539	DOC2	
+Neocon1|782539	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|782539	DOC2	
+Neocon1|782714	DOC2	
+Neocon1|782714	DOC2	
+Neocon1|782714	DOC2	
+Neocon1|782714	GH6	Glycoside Hydrolase Family 6
+Neocon1|782714	GH6	Glycoside Hydrolase Family 6
+Neocon1|782738	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|782738	CBM6	Carbohydrate-Binding Module Family 6
+Neocon1|782738	GH43	Glycoside Hydrolase Family 43
+Neocon1|782742	CBM6	Carbohydrate-Binding Module Family 6
+Neocon1|782742	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|782742	DOC2	
+Neocon1|782742	GH43	Glycoside Hydrolase Family 43
+Neocon1|782742	DOC2	
+Neocon1|782845	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|782845	DOC2	
+Neocon1|782845	DOC2	
+Neocon1|782845	DOC2	
+Neocon1|782978	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|783149	DOC2	
+Neocon1|783190	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|783190	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|783190	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|783190	DOC2	
+Neocon1|783190	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|783190	DOC2	
+Neocon1|783190	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|783190	DOC2	
+Neocon1|783190	DOC2	
+Neocon1|783256	GT58	GlycosylTransferase Family 58
+Neocon1|783365	CE4	Carbohydrate Esterase Family 4
+Neocon1|783449	GT4	GlycosylTransferase Family 4
+Neocon1|783770	CE4	Carbohydrate Esterase Family 4
+Neocon1|783771	CE4	Carbohydrate Esterase Family 4
+Neocon1|783899	DOC2	
+Neocon1|783899	DOC2	
+Neocon1|783953	GH1	Glycoside Hydrolase Family 1
+Neocon1|783965	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|784092	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|784092	GH6	Glycoside Hydrolase Family 6
+Neocon1|784092	GH6	Glycoside Hydrolase Family 6
+Neocon1|784092	GH6	Glycoside Hydrolase Family 6
+Neocon1|784101	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|784114	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|784114	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|784114	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|784114	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|784115	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|784115	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|784115	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|784121	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|784121	CE6	Carbohydrate Esterase Family 6
+Neocon1|784259	GH13_28	Glycoside Hydrolase Family 13 / Subf 28
+Neocon1|784259	CBM26	Carbohydrate-Binding Module Family 26
+Neocon1|784296	CE4	Carbohydrate Esterase Family 4
+Neocon1|784416	DOC2	
+Neocon1|784416	DOC2	
+Neocon1|784416	DOC2	
+Neocon1|784416	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|784869	GH3	Glycoside Hydrolase Family 3
+Neocon1|784963	GT22	GlycosylTransferase Family 22
+Neocon1|785057	GT2	GlycosylTransferase Family 2
+Neocon1|785131	GT71	GlycosylTransferase Family 71
+Neocon1|785163	CE4	Carbohydrate Esterase Family 4
+Neocon1|785358	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|785359	GH48	Glycoside Hydrolase Family 48
+Neocon1|785359	DOC2	
+Neocon1|785359	DOC2	
+Neocon1|785371	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|785371	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|785386	CBM29	Carbohydrate-Binding Module Family 29
+Neocon1|785386	CBM29	Carbohydrate-Binding Module Family 29
+Neocon1|785386	CBM29	Carbohydrate-Binding Module Family 29
+Neocon1|785386	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|785451	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|785451	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|785468	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|785468	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|785468	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|785468	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|785496	DOC2	
+Neocon1|785496	DOC2	
+Neocon1|785523	EXPN	Distantly related to plant expansins
+Neocon1|785524	EXPN	Distantly related to plant expansins
+Neocon1|785584	CE4	Carbohydrate Esterase Family 4
+Neocon1|785584	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|785710	GT2	GlycosylTransferase Family 2
+Neocon1|785711	GT2	GlycosylTransferase Family 2
+Neocon1|786531	DOC2	
+Neocon1|786531	DOC2	
+Neocon1|786531	GH10	Glycoside Hydrolase Family 10
+Neocon1|786808	DOC2	
+Neocon1|786809	DOC2	
+Neocon1|787375	DOC2	
+Neocon1|787375	DOC2	
+Neocon1|787375	DOC2	
+Neocon1|787375	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|787375	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|787375	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|787484	DOC2	
+Neocon1|787484	DOC2	
+Neocon1|787533	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|787533	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|787533	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|787533	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|787774	GH3	Glycoside Hydrolase Family 3
+Neocon1|787778	DOC2	
+Neocon1|787778	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|787778	DOC2	
+Neocon1|787778	GH2	Glycoside Hydrolase Family 2
+Neocon1|787929	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|787929	PL1	Polysaccharide Lyase Family 1
+Neocon1|787934	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|787934	PL1	Polysaccharide Lyase Family 1
+Neocon1|787934	PL1	Polysaccharide Lyase Family 1
+Neocon1|788052	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|788052	GH11	Glycoside Hydrolase Family 11
+Neocon1|788189	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|788293	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|788374	GH48	Glycoside Hydrolase Family 48
+Neocon1|788374	DOC2	
+Neocon1|788374	DOC2	
+Neocon1|788477	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|788477	GH11	Glycoside Hydrolase Family 11
+Neocon1|788480	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|788480	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|788480	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|788480	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|788482	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|788482	GH11	Glycoside Hydrolase Family 11
+Neocon1|788622	GH3	Glycoside Hydrolase Family 3
+Neocon1|788625	GH3	Glycoside Hydrolase Family 3
+Neocon1|788703	DOC2	
+Neocon1|788703	DOC2	
+Neocon1|788703	DOC2	
+Neocon1|788721	DOC2	
+Neocon1|788721	DOC2	
+Neocon1|788721	CBM29	Carbohydrate-Binding Module Family 29
+Neocon1|788721	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|788721	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|788734	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|788734	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|788734	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|788734	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|788741	GH1	Glycoside Hydrolase Family 1
+Neocon1|788784	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|788784	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|788784	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|788795	DOC2	
+Neocon1|788795	DOC2	
+Neocon1|788816	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|788816	PL1	Polysaccharide Lyase Family 1
+Neocon1|788817	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|788817	PL1	Polysaccharide Lyase Family 1
+Neocon1|788820	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|788820	PL1	Polysaccharide Lyase Family 1
+Neocon1|789055	DOC2	
+Neocon1|789055	DOC2	
+Neocon1|789055	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|789231	GH3	Glycoside Hydrolase Family 3
+Neocon1|789240	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|789240	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|789240	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|789240	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|789281	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|789281	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|789281	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|789281	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|789281	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|789281	CE4	Carbohydrate Esterase Family 4
+Neocon1|789365	DOC2	
+Neocon1|789365	DOC2	
+Neocon1|789492	DOC2	
+Neocon1|789492	GH11	Glycoside Hydrolase Family 11
+Neocon1|789492	GH11	Glycoside Hydrolase Family 11
+Neocon1|789492	DOC2	
+Neocon1|789492	DOC2	
+Neocon1|789672	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|789672	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|789672	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|789704	GH1	Glycoside Hydrolase Family 1
+Neocon1|789774	DOC2	
+Neocon1|789774	DOC2	
+Neocon1|789814	GH11	Glycoside Hydrolase Family 11
+Neocon1|789879	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|789879	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|789879	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|789879	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|789879	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|789879	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|789879	CE4	Carbohydrate Esterase Family 4
+Neocon1|789915	CE18	Carbohydrate Esterase Family 18
+Neocon1|789915	CBM87	Carbohydrate-Binding Module Family 87
+Neocon1|789954	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|790532	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|790532	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|790532	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|790659	DOC2	
+Neocon1|790659	DOC2	
+Neocon1|790706	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|790769	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|790769	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|790769	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|790769	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|790769	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|790782	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|790782	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|790782	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|790803	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|790803	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|790803	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|790803	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|790803	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|790803	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|790803	CE4	Carbohydrate Esterase Family 4
+Neocon1|790803	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|790803	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|790805	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|790805	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|790805	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|790882	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|790882	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|790882	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|791041	CE4	Carbohydrate Esterase Family 4
+Neocon1|791063	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|791063	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|791063	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|791083	DOC2	
+Neocon1|791083	DOC2	
+Neocon1|791766	CBM29	Carbohydrate-Binding Module Family 29
+Neocon1|791766	GH10	Glycoside Hydrolase Family 10
+Neocon1|791968	GT2	GlycosylTransferase Family 2
+Neocon1|791969	GT2	GlycosylTransferase Family 2
+Neocon1|791986	GT2	GlycosylTransferase Family 2
+Neocon1|792010	GH73	Glycoside Hydrolase Family 73
+Neocon1|792238	GT34	GlycosylTransferase Family 34
+Neocon1|792240	GT2	GlycosylTransferase Family 2
+Neocon1|792279	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|792787	PL4_dist	Polysaccharide Lyase Family 4
+Neocon1|792988	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|792997	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|792997	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|792997	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|792997	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|792997	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|793065	GH47	Glycoside Hydrolase Family 47
+Neocon1|794341	GH10	Glycoside Hydrolase Family 10
+Neocon1|794550	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|794604	GH11	Glycoside Hydrolase Family 11
+Neocon1|795595	GT20	GlycosylTransferase Family 20
+Neocon1|795613	GT8	GlycosylTransferase Family 8
+Neocon1|796965	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|796965	GH10	Glycoside Hydrolase Family 10
+Neocon1|797327	GH47	Glycoside Hydrolase Family 47
+Neocon1|798258	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|798258	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|798588	GT2	GlycosylTransferase Family 2
+Neocon1|798874	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|798874	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|799498	CE18	Carbohydrate Esterase Family 18
+Neocon1|799498	CBM87	Carbohydrate-Binding Module Family 87
+Neocon1|799498	DOC2	
+Neocon1|799498	DOC2	
+Neocon1|799960	GH5_7	Glycoside Hydrolase Family 5 / Subf 7
+Neocon1|800017	GT2	GlycosylTransferase Family 2
+Neocon1|800816	DOC2	
+Neocon1|800816	DOC2	
+Neocon1|801730	CE8	Carbohydrate Esterase Family 8
+Neocon1|802112	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|802866	GT20	GlycosylTransferase Family 20
+Neocon1|803807	GT35	GlycosylTransferase Family 35
+Neocon1|804168	DOC2	
+Neocon1|804168	DOC2	
+Neocon1|804508	GH16	Glycoside Hydrolase Family 16
+Neocon1|804770	PL4_dist	Polysaccharide Lyase Family 4
+Neocon1|804781	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|804781	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|804781	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|805043	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|805043	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|805352	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|806124	GH45	Glycoside Hydrolase Family 45
+Neocon1|806124	DOC2	
+Neocon1|806124	DOC2	
+Neocon1|806124	DOC2	
+Neocon1|806125	GH18	Glycoside Hydrolase Family 18
+Neocon1|806182	CE4	Carbohydrate Esterase Family 4
+Neocon1|806225	GH18	Glycoside Hydrolase Family 18
+Neocon1|806715	DOC2	
+Neocon1|806715	DOC2	
+Neocon1|806715	GH45	Glycoside Hydrolase Family 45
+Neocon1|806715	DOC2	
+Neocon1|806715	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|806839	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|806839	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|806998	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|806998	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|807323	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|807323	GH6	Glycoside Hydrolase Family 6
+Neocon1|807519	DOC2	
+Neocon1|807519	DOC2	
+Neocon1|807530	GH26	Glycoside Hydrolase Family 26
+Neocon1|807613	GT34	GlycosylTransferase Family 34
+Neocon1|807643	CE8	Carbohydrate Esterase Family 8
+Neocon1|807693	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|807751	PL3_2	Polysaccharide Lyase Family 3 / Subf 2
+Neocon1|807755	PL3_2	Polysaccharide Lyase Family 3 / Subf 2
+Neocon1|807757	PL3_2	Polysaccharide Lyase Family 3 / Subf 2
+Neocon1|807758	PL3_2	Polysaccharide Lyase Family 3 / Subf 2
+Neocon1|807834	DOC2	
+Neocon1|807834	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|807842	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|807842	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|807842	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|807842	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|808149	CBM87	Carbohydrate-Binding Module Family 87
+Neocon1|808246	GT20	GlycosylTransferase Family 20
+Neocon1|808270	GT3	GlycosylTransferase Family 3
+Neocon1|808341	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|808341	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|808353	GT2	GlycosylTransferase Family 2
+Neocon1|808407	GH11	Glycoside Hydrolase Family 11
+Neocon1|808407	GH11	Glycoside Hydrolase Family 11
+Neocon1|808407	GH11	Glycoside Hydrolase Family 11
+Neocon1|808407	CE4	Carbohydrate Esterase Family 4
+Neocon1|808447	DOC2	
+Neocon1|808447	DOC2	
+Neocon1|808447	EXPN	Distantly related to plant expansins
+Neocon1|808447	DOC2	
+Neocon1|808652	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|808652	GH11	Glycoside Hydrolase Family 11
+Neocon1|808692	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|808693	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|808907	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|808907	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|808962	Myosin_motor	Glycosyltransferase Family 2
+Neocon1|808962	GT2	GlycosylTransferase Family 2
+Neocon1|809108	GT8	GlycosylTransferase Family 8
+Neocon1|809358	CBM48	Carbohydrate-Binding Module Family 48
+Neocon1|809523	GH39	Glycoside Hydrolase Family 39
+Neocon1|809523	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|809524	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|809524	PL1	Polysaccharide Lyase Family 1
+Neocon1|809524	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|809524	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|809537	GT17	GlycosylTransferase Family 17
+Neocon1|809655	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|809708	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|809708	GH18	Glycoside Hydrolase Family 18
+Neocon1|809746	GH39	Glycoside Hydrolase Family 39
+Neocon1|809746	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|809746	DOC2	
+Neocon1|809929	GH26	Glycoside Hydrolase Family 26
+Neocon1|809929	CBM35	Carbohydrate-Binding Module Family 35
+Neocon1|809929	DOC2	
+Neocon1|809929	DOC2	
+Neocon1|810089	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|810213	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|810251	GH28	Glycoside Hydrolase Family 28
+Neocon1|810836	CBM6	Carbohydrate-Binding Module Family 6
+Neocon1|810836	GH43	Glycoside Hydrolase Family 43
+Neocon1|810836	DOC2	
+Neocon1|810895	GH20	Glycoside Hydrolase Family 20
+Neocon1|811286	DOC2	
+Neocon1|811286	DOC2	
+Neocon1|811480	GH3	Glycoside Hydrolase Family 3
+Neocon1|811487	CE4	Carbohydrate Esterase Family 4
+Neocon1|811489	GH3	Glycoside Hydrolase Family 3
+Neocon1|811499	GH16	Glycoside Hydrolase Family 16
+Neocon1|811499	CBM52	Carbohydrate-Binding Module Family 52
+Neocon1|811499	CBM52	Carbohydrate-Binding Module Family 52
+Neocon1|811797	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|811797	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|811797	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|811797	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|811836	GH11	Glycoside Hydrolase Family 11
+Neocon1|811840	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|811840	GH10	Glycoside Hydrolase Family 10
+Neocon1|811842	GH10	Glycoside Hydrolase Family 10
+Neocon1|811884	GH31	Glycoside Hydrolase Family 31
+Neocon1|812030	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|812030	DOC2	
+Neocon1|812030	DOC2	
+Neocon1|812030	GH5_7	Glycoside Hydrolase Family 5 / Subf 7
+Neocon1|812081	GH25	Glycoside Hydrolase Family 25
+Neocon1|812094	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|812094	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|812094	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|812094	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|812094	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|812163	DOC2	
+Neocon1|812163	GH10	Glycoside Hydrolase Family 10
+Neocon1|812165	DOC2	
+Neocon1|812165	GH10	Glycoside Hydrolase Family 10
+Neocon1|812191	GH5_7	Glycoside Hydrolase Family 5 / Subf 7
+Neocon1|812192	GH5_7	Glycoside Hydrolase Family 5 / Subf 7
+Neocon1|812291	CE18	Carbohydrate Esterase Family 18
+Neocon1|812302	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|812302	DOC2	
+Neocon1|812302	DOC2	
+Neocon1|812302	GH45	Glycoside Hydrolase Family 45
+Neocon1|812515	GT20	GlycosylTransferase Family 20
+Neocon1|812635	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|812635	DOC2	
+Neocon1|812635	DOC2	
+Neocon1|812635	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|812658	GH114	Glycoside Hydrolase Family 114
+Neocon1|813000	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|813000	GH11	Glycoside Hydrolase Family 11
+Neocon1|813071	GH10	Glycoside Hydrolase Family 10
+Neocon1|813090	DOC2	
+Neocon1|813090	GH10	Glycoside Hydrolase Family 10
+Neocon1|813119	GT2	GlycosylTransferase Family 2
+Neocon1|813192	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|813341	GH10	Glycoside Hydrolase Family 10
+Neocon1|813361	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|813361	GH11	Glycoside Hydrolase Family 11
+Neocon1|813369	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|813369	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|813427	GT39	GlycosylTransferase Family 39
+Neocon1|813785	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|814041	CBM32	Carbohydrate-Binding Module Family 32
+Neocon1|814616	GT2	GlycosylTransferase Family 2
+Neocon1|815127	DOC2	
+Neocon1|815127	DOC2	
+Neocon1|815127	DOC2	
+Neocon1|815127	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|815155	GT34	GlycosylTransferase Family 34
+Neocon1|815471	GH10	Glycoside Hydrolase Family 10
+Neocon1|815473	GH10	Glycoside Hydrolase Family 10
+Neocon1|815490	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|815490	DOC2	
+Neocon1|815490	DOC2	
+Neocon1|815490	GH45	Glycoside Hydrolase Family 45
+Neocon1|815492	GH13_14	Glycoside Hydrolase Family 13 / Subf 14
+Neocon1|815813	CBM50	Carbohydrate-Binding Module Family 50
+Neocon1|815813	CBM50	Carbohydrate-Binding Module Family 50
+Neocon1|815813	CE4	Carbohydrate Esterase Family 4
+Neocon1|816832	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|816832	PL4_dist	Polysaccharide Lyase Family 4
+Neocon1|816832	CE12	Carbohydrate Esterase Family 12
+Neocon1|817339	GH3	Glycoside Hydrolase Family 3
+Neocon1|817587	GH3	Glycoside Hydrolase Family 3
+Neocon1|817647	GH3	Glycoside Hydrolase Family 3
+Neocon1|817649	GH3	Glycoside Hydrolase Family 3
+Neocon1|817650	GH3	Glycoside Hydrolase Family 3
+Neocon1|817778	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|817778	PL1	Polysaccharide Lyase Family 1
+Neocon1|817812	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|817812	GH114	Glycoside Hydrolase Family 114
+Neocon1|817872	EXPN	Distantly related to plant expansins
+Neocon1|817872	CBM63	Carbohydrate-Binding Module Family 63
+Neocon1|818058	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|818060	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|818130	GH48	Glycoside Hydrolase Family 48
+Neocon1|818184	GT20	GlycosylTransferase Family 20
+Neocon1|818198	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|818409	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|818409	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|818409	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|818409	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|818411	DOC2	
+Neocon1|818411	DOC2	
+Neocon1|818411	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|818447	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|818447	PL1	Polysaccharide Lyase Family 1
+Neocon1|818448	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|818448	PL1	Polysaccharide Lyase Family 1
+Neocon1|818605	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|818792	CE4	Carbohydrate Esterase Family 4
+Neocon1|818817	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|818817	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|819193	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|819193	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|819285	GH18	Glycoside Hydrolase Family 18
+Neocon1|819285	DOC2	
+Neocon1|819285	DOC2	
+Neocon1|819496	GH8	Glycoside Hydrolase Family 8
+Neocon1|819609	DOC2	
+Neocon1|819609	DOC2	
+Neocon1|819609	GH9	Glycoside Hydrolase Family 9
+Neocon1|819609	DOC2	
+Neocon1|819839	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|819848	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|820091	GH11	Glycoside Hydrolase Family 11
+Neocon1|820093	GH11	Glycoside Hydrolase Family 11
+Neocon1|820094	GH11	Glycoside Hydrolase Family 11
+Neocon1|820222	GT2	GlycosylTransferase Family 2
+Neocon1|820232	GH13_28	Glycoside Hydrolase Family 13 / Subf 28
+Neocon1|820269	CBM50	Carbohydrate-Binding Module Family 50
+Neocon1|820269	CBM50	Carbohydrate-Binding Module Family 50
+Neocon1|820269	CE4	Carbohydrate Esterase Family 4
+Neocon1|820299	GT2	GlycosylTransferase Family 2
+Neocon1|820454	GT1	GlycosylTransferase Family 1
+Neocon1|820508	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|820508	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|820508	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|820508	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|820550	GH48	Glycoside Hydrolase Family 48
+Neocon1|820551	GH48	Glycoside Hydrolase Family 48
+Neocon1|820581	PL3_2	Polysaccharide Lyase Family 3 / Subf 2
+Neocon1|820712	PL3_2	Polysaccharide Lyase Family 3 / Subf 2
+Neocon1|820847	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|821051	CBM6	Carbohydrate-Binding Module Family 6
+Neocon1|821051	GH43	Glycoside Hydrolase Family 43
+Neocon1|821240	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|821240	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|821248	GT101	GlycosylTransferase Family 101
+Neocon1|821250	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|821546	EXPN	Distantly related to plant expansins
+Neocon1|821868	GH11	Glycoside Hydrolase Family 11
+Neocon1|821869	GH11	Glycoside Hydrolase Family 11
+Neocon1|821929	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|821929	GH11	Glycoside Hydrolase Family 11
+Neocon1|822400	GH5_7	Glycoside Hydrolase Family 5 / Subf 7
+Neocon1|822462	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|822462	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|822462	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|822462	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|822616	CE4	Carbohydrate Esterase Family 4
+Neocon1|822943	GH11	Glycoside Hydrolase Family 11
+Neocon1|822943	GH10	Glycoside Hydrolase Family 10
+Neocon1|823042	GH3	Glycoside Hydrolase Family 3
+Neocon1|823043	GH3	Glycoside Hydrolase Family 3
+Neocon1|823060	GH11	Glycoside Hydrolase Family 11
+Neocon1|823060	GH11	Glycoside Hydrolase Family 11
+Neocon1|823182	GH114	Glycoside Hydrolase Family 114
+Neocon1|823271	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|823271	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|823304	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|823439	GT2	GlycosylTransferase Family 2
+Neocon1|823441	GT2	GlycosylTransferase Family 2
+Neocon1|823457	CBM32	Carbohydrate-Binding Module Family 32
+Neocon1|823576	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|823576	GH11	Glycoside Hydrolase Family 11
+Neocon1|823577	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|823577	GH11	Glycoside Hydrolase Family 11
+Neocon1|823580	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|823580	GH11	Glycoside Hydrolase Family 11
+Neocon1|823583	GH11	Glycoside Hydrolase Family 11
+Neocon1|823584	GH11	Glycoside Hydrolase Family 11
+Neocon1|823655	DOC2	
+Neocon1|823655	DOC2	
+Neocon1|823696	GH124	Glycoside Hydrolase Family 124
+Neocon1|823815	GH6	Glycoside Hydrolase Family 6
+Neocon1|823856	DOC2	
+Neocon1|823856	DOC2	
+Neocon1|823856	GH115	Glycoside Hydrolase Family 115
+Neocon1|823939	CBM6	Carbohydrate-Binding Module Family 6
+Neocon1|823939	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|823939	GH43	Glycoside Hydrolase Family 43
+Neocon1|823939	DOC2	
+Neocon1|824260	CE18	Carbohydrate Esterase Family 18
+Neocon1|824260	CBM87	Carbohydrate-Binding Module Family 87
+Neocon1|824331	GH48	Glycoside Hydrolase Family 48
+Neocon1|824598	PL1	Polysaccharide Lyase Family 1
+Neocon1|824741	CBM6	Carbohydrate-Binding Module Family 6
+Neocon1|824741	GH43	Glycoside Hydrolase Family 43
+Neocon1|825097	GT39	GlycosylTransferase Family 39
+Neocon1|825103	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|825103	CE8	Carbohydrate Esterase Family 8
+Neocon1|825153	GH10	Glycoside Hydrolase Family 10
+Neocon1|825153	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|825184	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|825204	GH6	Glycoside Hydrolase Family 6
+Neocon1|825332	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|825332	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|825332	DOC2	
+Neocon1|825332	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|825822	DOC2	
+Neocon1|825822	DOC2	
+Neocon1|825822	DOC2	
+Neocon1|825822	DOC2	
+Neocon1|825822	DOC2	
+Neocon1|825822	DOC2	
+Neocon1|825822	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|825864	CBM48	Carbohydrate-Binding Module Family 48
+Neocon1|825993	GH11	Glycoside Hydrolase Family 11
+Neocon1|825996	GH11	Glycoside Hydrolase Family 11
+Neocon1|825997	GH11	Glycoside Hydrolase Family 11
+Neocon1|826247	GH10	Glycoside Hydrolase Family 10
+Neocon1|826247	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|826306	GH31	Glycoside Hydrolase Family 31
+Neocon1|826414	DOC2	
+Neocon1|826414	GH53	Glycoside Hydrolase Family 53
+Neocon1|826414	DOC2	
+Neocon1|826834	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|826834	GH10	Glycoside Hydrolase Family 10
+Neocon1|826868	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|826868	CE8	Carbohydrate Esterase Family 8
+Neocon1|827311	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|827591	GH10	Glycoside Hydrolase Family 10
+Neocon1|827591	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|827971	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|827979	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|827979	GH11	Glycoside Hydrolase Family 11
+Neocon1|828096	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|828338	DOC2	
+Neocon1|828338	DOC2	
+Neocon1|828338	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|828373	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|828683	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|828683	GH2	Glycoside Hydrolase Family 2
+Neocon1|828684	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|828684	GH2	Glycoside Hydrolase Family 2
+Neocon1|828750	DOC2	
+Neocon1|828750	DOC2	
+Neocon1|828759	GT39	GlycosylTransferase Family 39
+Neocon1|829619	CBM21	Carbohydrate-Binding Module Family 21
+Neocon1|829668	GH10	Glycoside Hydrolase Family 10
+Neocon1|829668	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|829739	GH3	Glycoside Hydrolase Family 3
+Neocon1|829741	GH3	Glycoside Hydrolase Family 3
+Neocon1|829742	GH3	Glycoside Hydrolase Family 3
+Neocon1|829743	GH3	Glycoside Hydrolase Family 3
+Neocon1|829817	CE18	Carbohydrate Esterase Family 18
+Neocon1|829817	CBM87	Carbohydrate-Binding Module Family 87
+Neocon1|829948	CE6	Carbohydrate Esterase Family 6
+Neocon1|829948	DOC2	
+Neocon1|829948	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|829948	DOC2	
+Neocon1|829953	DOC2	
+Neocon1|829953	DOC2	
+Neocon1|830206	CBM91	Carbohydrate-Binding Module Family 91
+Neocon1|830206	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|830206	GH43	Glycoside Hydrolase Family 43
+Neocon1|830321	GH11	Glycoside Hydrolase Family 11
+Neocon1|830322	GH11	Glycoside Hydrolase Family 11
+Neocon1|830323	GH11	Glycoside Hydrolase Family 11
+Neocon1|830325	GH11	Glycoside Hydrolase Family 11
+Neocon1|830326	GH11	Glycoside Hydrolase Family 11
+Neocon1|830327	GH11	Glycoside Hydrolase Family 11
+Neocon1|830849	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|830935	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|830935	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|830935	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|830935	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|830935	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|831030	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|831030	PL4_dist	Polysaccharide Lyase Family 4
+Neocon1|831030	CE12	Carbohydrate Esterase Family 12
+Neocon1|831182	GH48	Glycoside Hydrolase Family 48
+Neocon1|831290	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|831290	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|831290	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|831290	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|831290	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|831358	CBM29	Carbohydrate-Binding Module Family 29
+Neocon1|831358	DOC2	
+Neocon1|831358	GH10	Glycoside Hydrolase Family 10
+Neocon1|831358	DOC2	
+Neocon1|831358	DOC2	
+Neocon1|831726	GH26	Glycoside Hydrolase Family 26
+Neocon1|831726	CBM35	Carbohydrate-Binding Module Family 35
+Neocon1|831870	DOC2	
+Neocon1|831870	GH45	Glycoside Hydrolase Family 45
+Neocon1|832084	EXPN	Distantly related to plant expansins
+Neocon1|832084	CBM63	Carbohydrate-Binding Module Family 63
+Neocon1|832415	DOC2	
+Neocon1|832415	CE15	Carbohydrate Esterase Family 15
+Neocon1|832415	DOC2	
+Neocon1|832676	GH48	Glycoside Hydrolase Family 48
+Neocon1|832676	DOC2	
+Neocon1|832676	DOC2	
+Neocon1|832678	GH48	Glycoside Hydrolase Family 48
+Neocon1|832678	DOC2	
+Neocon1|832678	DOC2	
+Neocon1|832852	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|832852	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|832852	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|832852	DOC2	
+Neocon1|832852	DOC2	
+Neocon1|833120	GH3	Glycoside Hydrolase Family 3
+Neocon1|833258	DOC2	
+Neocon1|833258	DOC2	
+Neocon1|833259	DOC2	
+Neocon1|833259	DOC2	
+Neocon1|833261	DOC2	
+Neocon1|833261	DOC2	
+Neocon1|833266	DOC2	
+Neocon1|833266	DOC2	
+Neocon1|833476	GH3	Glycoside Hydrolase Family 3
+Neocon1|833834	GH11	Glycoside Hydrolase Family 11
+Neocon1|834243	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|834243	GH10	Glycoside Hydrolase Family 10
+Neocon1|834386	GH3	Glycoside Hydrolase Family 3
+Neocon1|834747	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|834747	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|834776	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|834799	GH11	Glycoside Hydrolase Family 11
+Neocon1|834800	GH11	Glycoside Hydrolase Family 11
+Neocon1|834817	GH11	Glycoside Hydrolase Family 11
+Neocon1|835082	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|835082	CE12	Carbohydrate Esterase Family 12
+Neocon1|835312	GH48	Glycoside Hydrolase Family 48
+Neocon1|836400	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|836810	CBM32	Carbohydrate-Binding Module Family 32
+Neocon1|836988	EXPN	Distantly related to plant expansins
+Neocon1|837133	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|837133	GH10	Glycoside Hydrolase Family 10
+Neocon1|837159	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|837159	GH6	Glycoside Hydrolase Family 6
+Neocon1|837341	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|837395	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|837395	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|837745	GT2	GlycosylTransferase Family 2
+Neocon1|838775	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|838775	DOC2	
+Neocon1|838775	DOC2	
+Neocon1|839578	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|839578	CBM61	Carbohydrate-Binding Module Family 61
+Neocon1|839578	GH43	Glycoside Hydrolase Family 43
+Neocon1|839747	GH115	Glycoside Hydrolase Family 115
+Neocon1|839844	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|840495	PL1_6	Polysaccharide Lyase Family 1 / Subf 6
+Neocon1|840569	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|841070	GT2	GlycosylTransferase Family 2
+Neocon1|841554	CE12	Carbohydrate Esterase Family 12
+Neocon1|841569	GH10	Glycoside Hydrolase Family 10
+Neocon1|841569	GH10	Glycoside Hydrolase Family 10
+Neocon1|841573	GH10	Glycoside Hydrolase Family 10
+Neocon1|842502	DOC2	
+Neocon1|842502	CBM29	Carbohydrate-Binding Module Family 29
+Neocon1|842502	DOC2	
+Neocon1|842502	DOC2	
+Neocon1|843375	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|843375	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|843375	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|843375	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|843379	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|843379	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|843379	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|843379	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|843903	CBM32	Carbohydrate-Binding Module Family 32
+Neocon1|845883	GH1	Glycoside Hydrolase Family 1
+Neocon1|846029	DOC2	
+Neocon1|846029	DOC2	
+Neocon1|846063	DOC2	
+Neocon1|846690	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|847147	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|847147	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|847147	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|847333	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|847333	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|847333	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|847428	GT17	GlycosylTransferase Family 17
+Neocon1|848489	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|848489	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|848489	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|848489	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|848558	DOC2	
+Neocon1|848558	DOC2	
+Neocon1|848558	DOC2	
+Neocon1|848574	DOC2	
+Neocon1|848574	DOC2	
+Neocon1|848574	DOC2	
+Neocon1|848592	DOC2	
+Neocon1|848592	DOC2	
+Neocon1|848592	DOC2	
+Neocon1|848592	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|848592	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|848612	DOC2	
+Neocon1|848612	DOC2	
+Neocon1|848612	DOC2	
+Neocon1|848612	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|848612	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|848612	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|848612	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|848612	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|848882	DOC2	
+Neocon1|848882	DOC2	
+Neocon1|848882	GH45	Glycoside Hydrolase Family 45
+Neocon1|848900	DOC2	
+Neocon1|848900	DOC2	
+Neocon1|849067	GH45	Glycoside Hydrolase Family 45
+Neocon1|849067	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|849190	DOC2	
+Neocon1|849190	DOC2	
+Neocon1|849194	DOC2	
+Neocon1|849194	DOC2	
+Neocon1|849194	DOC2	
+Neocon1|849200	DOC2	
+Neocon1|849200	DOC2	
+Neocon1|849605	GH3	Glycoside Hydrolase Family 3
+Neocon1|849625	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|849625	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|849625	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|849626	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|849626	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|849626	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|850061	DOC2	
+Neocon1|850061	GH6	Glycoside Hydrolase Family 6
+Neocon1|850062	GH6	Glycoside Hydrolase Family 6
+Neocon1|850322	GH5_7	Glycoside Hydrolase Family 5 / Subf 7
+Neocon1|851697	GH48	Glycoside Hydrolase Family 48
+Neocon1|851697	DOC2	
+Neocon1|851697	DOC2	
+Neocon1|851910	DOC2	
+Neocon1|851910	DOC2	
+Neocon1|851910	GH95	Glycoside Hydrolase Family 95
+Neocon1|852106	PL4_dist	Polysaccharide Lyase Family 4
+Neocon1|852181	GH11	Glycoside Hydrolase Family 11
+Neocon1|852198	GH11	Glycoside Hydrolase Family 11
+Neocon1|852873	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|852873	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|852873	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|852909	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|852909	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|852909	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|852951	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|852951	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|852951	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|853088	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|853088	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|853088	GH18	Glycoside Hydrolase Family 18
+Neocon1|853088	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|853088	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|853088	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|853088	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|853241	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|853241	PL1	Polysaccharide Lyase Family 1
+Neocon1|854817	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|854817	PL1	Polysaccharide Lyase Family 1
+Neocon1|854822	PL1	Polysaccharide Lyase Family 1
+Neocon1|854933	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|855073	GT2	GlycosylTransferase Family 2
+Neocon1|855096	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|855157	DOC2	
+Neocon1|855157	DOC2	
+Neocon1|855157	GH115	Glycoside Hydrolase Family 115
+Neocon1|855167	GH115	Glycoside Hydrolase Family 115
+Neocon1|855187	DOC2	
+Neocon1|855187	GH26	Glycoside Hydrolase Family 26
+Neocon1|855187	GH26	Glycoside Hydrolase Family 26
+Neocon1|855524	PL4_dist	Polysaccharide Lyase Family 4
+Neocon1|856560	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|856560	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|856560	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|857021	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|857021	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|857021	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|857139	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|857139	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|857139	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|857169	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|857169	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|857169	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|857401	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|857622	GH43	Glycoside Hydrolase Family 43
+Neocon1|858035	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|858035	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|858035	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|858576	GT39	GlycosylTransferase Family 39
+Neocon1|859476	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|859476	CE12	Carbohydrate Esterase Family 12
+Neocon1|859765	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|859765	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|859765	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|859851	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|860238	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|860447	CBM26	Carbohydrate-Binding Module Family 26
+Neocon1|860447	CBM26	Carbohydrate-Binding Module Family 26
+Neocon1|860740	PL3_2	Polysaccharide Lyase Family 3 / Subf 2
+Neocon1|860752	PL3_2	Polysaccharide Lyase Family 3 / Subf 2
+Neocon1|860762	PL3_2	Polysaccharide Lyase Family 3 / Subf 2
+Neocon1|860917	DOC2	
+Neocon1|861255	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|861255	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|861255	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|861310	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|861505	GT17	GlycosylTransferase Family 17
+Neocon1|861610	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|861610	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|861610	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|861885	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|861914	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|861914	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|861914	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|862284	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|862284	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|862284	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|862303	GH114	Glycoside Hydrolase Family 114
+Neocon1|862398	GH6	Glycoside Hydrolase Family 6
+Neocon1|862449	GH3	Glycoside Hydrolase Family 3
+Neocon1|862450	GH3	Glycoside Hydrolase Family 3
+Neocon1|863345	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|863345	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|863345	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|863457	DOC2	
+Neocon1|863457	DOC2	
+Neocon1|863457	DOC2	
+Neocon1|863458	GH6	Glycoside Hydrolase Family 6
+Neocon1|863485	GH3	Glycoside Hydrolase Family 3
+Neocon1|863495	DOC2	
+Neocon1|863495	DOC2	
+Neocon1|863495	DOC2	
+Neocon1|863495	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|863495	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|863862	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|863862	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|863862	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|863862	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|863928	DOC2	
+Neocon1|863928	DOC2	
+Neocon1|863930	DOC2	
+Neocon1|863930	DOC2	
+Neocon1|863966	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|863966	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|863966	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|863966	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|864473	DOC2	
+Neocon1|864473	DOC2	
+Neocon1|864473	GH6	Glycoside Hydrolase Family 6
+Neocon1|864842	PL1	Polysaccharide Lyase Family 1
+Neocon1|865061	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|865612	GH11	Glycoside Hydrolase Family 11
+Neocon1|865760	DOC2	
+Neocon1|865760	DOC2	
+Neocon1|867896	DOC2	
+Neocon1|867896	DOC2	
+Neocon1|868519	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|868583	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|868583	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|868583	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|868604	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|868604	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|868604	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|868840	CE6	Carbohydrate Esterase Family 6
+Neocon1|868860	DOC2	
+Neocon1|868860	DOC2	
+Neocon1|868860	DOC2	
+Neocon1|869137	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|869660	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|869660	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|869660	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|869660	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|869662	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|869665	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|869665	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|869665	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|869665	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|869665	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|869665	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|869679	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|869679	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|869679	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|869679	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|869679	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|869679	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|869679	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|869689	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|869689	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|869689	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|869689	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|869689	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|869689	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|869774	GH6	Glycoside Hydrolase Family 6
+Neocon1|869777	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|869777	CBM61	Carbohydrate-Binding Module Family 61
+Neocon1|869777	GH43	Glycoside Hydrolase Family 43
+Neocon1|869804	GH43	Glycoside Hydrolase Family 43
+Neocon1|869808	GH43	Glycoside Hydrolase Family 43
+Neocon1|869813	GH43	Glycoside Hydrolase Family 43
+Neocon1|869927	GT2	GlycosylTransferase Family 2
+Neocon1|870074	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|870323	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|870409	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|871030	CE6	Carbohydrate Esterase Family 6
+Neocon1|871030	DOC2	
+Neocon1|871131	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|871131	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|871131	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|871143	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|871143	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|871143	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|871143	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|871143	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|871143	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|871158	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|871158	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|871158	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|871158	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|871158	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|871158	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|871158	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|871168	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|871168	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|871168	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|871168	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|871168	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|871183	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|872041	DOC2	
+Neocon1|872041	DOC2	
+Neocon1|872041	GH6	Glycoside Hydrolase Family 6
+Neocon1|872105	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|872239	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|872239	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|872239	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|872239	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|872731	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|872731	DOC2	
+Neocon1|872731	DOC2	
+Neocon1|872996	DOC2	
+Neocon1|872996	GH10	Glycoside Hydrolase Family 10
+Neocon1|873003	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|883552	CBM48	Carbohydrate-Binding Module Family 48
+Neocon1|883831	GT2	GlycosylTransferase Family 2
+Neocon1|883833	GT2	GlycosylTransferase Family 2
+Neocon1|884287	DOC2	
+Neocon1|884287	CE15	Carbohydrate Esterase Family 15
+Neocon1|884287	DOC2	
+Neocon1|884473	GH32	Glycoside Hydrolase Family 32
+Neocon1|884480	GH32	Glycoside Hydrolase Family 32
+Neocon1|884490	GH32	Glycoside Hydrolase Family 32
+Neocon1|884496	GH32	Glycoside Hydrolase Family 32
+Neocon1|884502	GH32	Glycoside Hydrolase Family 32
+Neocon1|884528	GH32	Glycoside Hydrolase Family 32
+Neocon1|884534	GH32	Glycoside Hydrolase Family 32
+Neocon1|884540	GH32	Glycoside Hydrolase Family 32
+Neocon1|884550	GH32	Glycoside Hydrolase Family 32
+Neocon1|884556	GH32	Glycoside Hydrolase Family 32
+Neocon1|884701	GH6	Glycoside Hydrolase Family 6
+Neocon1|884810	CE2	Carbohydrate Esterase Family 2
+Neocon1|885315	CE18	Carbohydrate Esterase Family 18
+Neocon1|885315	CBM87	Carbohydrate-Binding Module Family 87
+Neocon1|885511	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|885612	DOC2	
+Neocon1|885624	DOC2	
+Neocon1|885624	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|885767	DOC2	
+Neocon1|885767	DOC2	
+Neocon1|885767	GH43	Glycoside Hydrolase Family 43
+Neocon1|885909	GH43	Glycoside Hydrolase Family 43
+Neocon1|885925	CBM6	Carbohydrate-Binding Module Family 6
+Neocon1|885925	GH43	Glycoside Hydrolase Family 43
+Neocon1|885928	CBM6	Carbohydrate-Binding Module Family 6
+Neocon1|885928	GH43	Glycoside Hydrolase Family 43
+Neocon1|885993	DOC2	
+Neocon1|885993	DOC2	
+Neocon1|886688	GH48	Glycoside Hydrolase Family 48
+Neocon1|886688	DOC2	
+Neocon1|886688	DOC2	
+Neocon1|886783	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|886783	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|886888	CE18	Carbohydrate Esterase Family 18
+Neocon1|886888	CBM87	Carbohydrate-Binding Module Family 87
+Neocon1|887293	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|887293	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|887293	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|887293	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|887304	EXPN	Distantly related to plant expansins
+Neocon1|887603	GT2	GlycosylTransferase Family 2
+Neocon1|888273	CBM48	Carbohydrate-Binding Module Family 48
+Neocon1|888300	GT10	GlycosylTransferase Family 10
+Neocon1|888422	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|888438	GH43	Glycoside Hydrolase Family 43
+Neocon1|888447	GH43	Glycoside Hydrolase Family 43
+Neocon1|888450	GH43	Glycoside Hydrolase Family 43
+Neocon1|888551	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|888551	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|888551	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|888551	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|888551	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|888551	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|888551	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|888552	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|888552	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|888552	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|888552	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|888557	DOC2	
+Neocon1|888557	DOC2	
+Neocon1|889034	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|889034	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|889034	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|889034	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|889034	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|889427	GH5_7	Glycoside Hydrolase Family 5 / Subf 7
+Neocon1|889443	CE4	Carbohydrate Esterase Family 4
+Neocon1|889663	GH13_28	Glycoside Hydrolase Family 13 / Subf 28
+Neocon1|889663	CBM26	Carbohydrate-Binding Module Family 26
+Neocon1|889663	CBM25	Carbohydrate-Binding Module Family 25
+Neocon1|889956	DOC2	
+Neocon1|890388	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|890388	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|890389	GT1	GlycosylTransferase Family 1
+Neocon1|890573	CBM48	Carbohydrate-Binding Module Family 48
+Neocon1|890633	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|890679	GH30_5	Glycoside Hydrolase Family 30 / Subf 5
+Neocon1|891062	GH39	Glycoside Hydrolase Family 39
+Neocon1|891062	DOC2	
+Neocon1|891062	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|891062	DOC2	
+Neocon1|891591	GH43	Glycoside Hydrolase Family 43
+Neocon1|891947	GH30_3	Glycoside Hydrolase Family 30 / Subf 3
+Neocon1|892154	CBM6	Carbohydrate-Binding Module Family 6
+Neocon1|892154	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|892154	DOC2	
+Neocon1|892154	GH43	Glycoside Hydrolase Family 43
+Neocon1|892154	DOC2	
+Neocon1|892175	GH6	Glycoside Hydrolase Family 6
+Neocon1|892336	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|892336	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|892354	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|892354	GH11	Glycoside Hydrolase Family 11
+Neocon1|892464	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|892464	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|892464	CE4	Carbohydrate Esterase Family 4
+Neocon1|892854	CE4	Carbohydrate Esterase Family 4
+Neocon1|893179	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|893179	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|893352	GT8	GlycosylTransferase Family 8
+Neocon1|893491	GH114	Glycoside Hydrolase Family 114
+Neocon1|893953	GH6	Glycoside Hydrolase Family 6
+Neocon1|893955	GH6	Glycoside Hydrolase Family 6
+Neocon1|893957	GH6	Glycoside Hydrolase Family 6
+Neocon1|893964	GH6	Glycoside Hydrolase Family 6
+Neocon1|893966	GH6	Glycoside Hydrolase Family 6
+Neocon1|894255	CE4	Carbohydrate Esterase Family 4
+Neocon1|894255	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|894383	DOC2	
+Neocon1|894383	DOC2	
+Neocon1|894507	GH6	Glycoside Hydrolase Family 6
+Neocon1|894516	GH6	Glycoside Hydrolase Family 6
+Neocon1|894526	GH6	Glycoside Hydrolase Family 6
+Neocon1|894539	GH6	Glycoside Hydrolase Family 6
+Neocon1|894549	GH6	Glycoside Hydrolase Family 6
+Neocon1|894558	GH6	Glycoside Hydrolase Family 6
+Neocon1|894808	GH115	Glycoside Hydrolase Family 115
+Neocon1|895436	GH6	Glycoside Hydrolase Family 6
+Neocon1|895468	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|895667	DOC2	
+Neocon1|896019	GT8	GlycosylTransferase Family 8
+Neocon1|896225	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|896225	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|896361	CBM21	Carbohydrate-Binding Module Family 21
+Neocon1|896472	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|896472	DOC2	
+Neocon1|896472	GH43	Glycoside Hydrolase Family 43
+Neocon1|896472	DOC2	
+Neocon1|896648	GH3	Glycoside Hydrolase Family 3
+Neocon1|896667	GH3	Glycoside Hydrolase Family 3
+Neocon1|896678	GH3	Glycoside Hydrolase Family 3
+Neocon1|896987	GH26	Glycoside Hydrolase Family 26
+Neocon1|896987	DOC2	
+Neocon1|896993	GH26	Glycoside Hydrolase Family 26
+Neocon1|896993	DOC2	
+Neocon1|897283	GT17	GlycosylTransferase Family 17
+Neocon1|897373	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|897566	CBM48	Carbohydrate-Binding Module Family 48
+Neocon1|897756	DOC2	
+Neocon1|897756	GH10	Glycoside Hydrolase Family 10
+Neocon1|897793	GH11	Glycoside Hydrolase Family 11
+Neocon1|897802	GH11	Glycoside Hydrolase Family 11
+Neocon1|897804	GH11	Glycoside Hydrolase Family 11
+Neocon1|897836	GH3	Glycoside Hydrolase Family 3
+Neocon1|898131	GT17	GlycosylTransferase Family 17
+Neocon1|898188	GH1	Glycoside Hydrolase Family 1
+Neocon1|898305	GH3	Glycoside Hydrolase Family 3
+Neocon1|899003	GT17	GlycosylTransferase Family 17
+Neocon1|899156	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|899286	GT4	GlycosylTransferase Family 4
+Neocon1|899626	GH1	Glycoside Hydrolase Family 1
+Neocon1|899810	PL1	Polysaccharide Lyase Family 1
+Neocon1|899892	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|899892	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|899957	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|899957	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|899957	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|900103	GH43	Glycoside Hydrolase Family 43
+Neocon1|900393	DOC2	
+Neocon1|900393	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|900404	DOC2	
+Neocon1|900404	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|900407	DOC2	
+Neocon1|900407	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|900754	CE6	Carbohydrate Esterase Family 6
+Neocon1|900754	DOC2	
+Neocon1|900754	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|900754	DOC2	
+Neocon1|900768	GH48	Glycoside Hydrolase Family 48
+Neocon1|900796	CE4	Carbohydrate Esterase Family 4
+Neocon1|900798	CE4	Carbohydrate Esterase Family 4
+Neocon1|901561	GH10	Glycoside Hydrolase Family 10
+Neocon1|901564	GH10	Glycoside Hydrolase Family 10
+Neocon1|901840	GH43	Glycoside Hydrolase Family 43
+Neocon1|901964	DOC2	
+Neocon1|901964	GH74	Glycoside Hydrolase Family 74
+Neocon1|901964	DOC2	
+Neocon1|902332	CBM6	Carbohydrate-Binding Module Family 6
+Neocon1|902332	GH43	Glycoside Hydrolase Family 43
+Neocon1|902431	GH115	Glycoside Hydrolase Family 115
+Neocon1|903027	GH13_28	Glycoside Hydrolase Family 13 / Subf 28
+Neocon1|903027	CBM26	Carbohydrate-Binding Module Family 26
+Neocon1|903027	CBM25	Carbohydrate-Binding Module Family 25
+Neocon1|903175	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|903175	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|903175	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|903175	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|903175	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|903363	EXPN	Distantly related to plant expansins
+Neocon1|903490	DOC2	
+Neocon1|903490	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|903541	DOC2	
+Neocon1|904170	DOC2	
+Neocon1|904980	GT1	GlycosylTransferase Family 1
+Neocon1|905081	DOC2	
+Neocon1|905081	CE15	Carbohydrate Esterase Family 15
+Neocon1|905081	DOC2	
+Neocon1|905209	GT2	GlycosylTransferase Family 2
+Neocon1|905392	GH25	Glycoside Hydrolase Family 25
+Neocon1|905418	CE4	Carbohydrate Esterase Family 4
+Neocon1|905419	CE4	Carbohydrate Esterase Family 4
+Neocon1|905435	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|905435	DOC2	
+Neocon1|905671	GT71	GlycosylTransferase Family 71
+Neocon1|905967	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|905967	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|905967	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|905967	CE4	Carbohydrate Esterase Family 4
+Neocon1|906111	CBM25	Carbohydrate-Binding Module Family 25
+Neocon1|906193	GH10	Glycoside Hydrolase Family 10
+Neocon1|906471	CBM26	Carbohydrate-Binding Module Family 26
+Neocon1|906471	GH31	Glycoside Hydrolase Family 31
+Neocon1|906514	GH39	Glycoside Hydrolase Family 39
+Neocon1|906514	DOC2	
+Neocon1|906514	CBM13	Carbohydrate-Binding Module Family 13
+Neocon1|906514	DOC2	
+Neocon1|906521	GH1	Glycoside Hydrolase Family 1
+Neocon1|906533	GH1	Glycoside Hydrolase Family 1
+Neocon1|906540	GH1	Glycoside Hydrolase Family 1
+Neocon1|906546	GH1	Glycoside Hydrolase Family 1
+Neocon1|906557	GH1	Glycoside Hydrolase Family 1
+Neocon1|906565	GH1	Glycoside Hydrolase Family 1
+Neocon1|906623	GT34	GlycosylTransferase Family 34
+Neocon1|906842	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|906842	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|906903	CBM12	Carbohydrate-Binding Module Family 12
+Neocon1|907084	GT17	GlycosylTransferase Family 17
+Neocon1|907419	DOC2	
+Neocon1|907419	DOC2	
+Neocon1|907581	GT71	GlycosylTransferase Family 71
+Neocon1|908199	DOC2	
+Neocon1|908199	DOC2	
+Neocon1|908199	CE15	Carbohydrate Esterase Family 15
+Neocon1|908797	GH10	Glycoside Hydrolase Family 10
+Neocon1|908803	GH10	Glycoside Hydrolase Family 10
+Neocon1|908822	GT4	GlycosylTransferase Family 4
+Neocon1|909005	CE3	Carbohydrate Esterase Family 3
+Neocon1|909005	DOC2	
+Neocon1|909407	GH6	Glycoside Hydrolase Family 6
+Neocon1|909541	CE3	Carbohydrate Esterase Family 3
+Neocon1|909541	CBM1	Carbohydrate-Binding Module Family 1
+Neocon1|909801	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|909801	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|910410	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|910410	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|910410	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|910541	GT22	GlycosylTransferase Family 22
+Neocon1|910627	CBM32	Carbohydrate-Binding Module Family 32
+Neocon1|910898	GH6	Glycoside Hydrolase Family 6
+Neocon1|910903	GH6	Glycoside Hydrolase Family 6
+Neocon1|911078	GH6	Glycoside Hydrolase Family 6
+Neocon1|911087	GH6	Glycoside Hydrolase Family 6
+Neocon1|911095	GH6	Glycoside Hydrolase Family 6
+Neocon1|911103	GH6	Glycoside Hydrolase Family 6
+Neocon1|911110	GH6	Glycoside Hydrolase Family 6
+Neocon1|911121	GH6	Glycoside Hydrolase Family 6
+Neocon1|911128	GH6	Glycoside Hydrolase Family 6
+Neocon1|911142	GH6	Glycoside Hydrolase Family 6
+Neocon1|911147	GH6	Glycoside Hydrolase Family 6
+Neocon1|911192	GH5_7	Glycoside Hydrolase Family 5 / Subf 7
+Neocon1|911316	GH6	Glycoside Hydrolase Family 6
+Neocon1|911357	CE2	Carbohydrate Esterase Family 2
+Neocon1|911362	GH1	Glycoside Hydrolase Family 1
+Neocon1|911368	GH1	Glycoside Hydrolase Family 1
+Neocon1|911378	GH1	Glycoside Hydrolase Family 1
+Neocon1|911389	GH1	Glycoside Hydrolase Family 1
+Neocon1|911401	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|911868	GT22	GlycosylTransferase Family 22
+Neocon1|912102	CE4	Carbohydrate Esterase Family 4
+Neocon1|912105	CE4	Carbohydrate Esterase Family 4
+Neocon1|912108	CE4	Carbohydrate Esterase Family 4
+Neocon1|912111	CE4	Carbohydrate Esterase Family 4
+Neocon1|912113	CE4	Carbohydrate Esterase Family 4
+Neocon1|912117	CE4	Carbohydrate Esterase Family 4
+Neocon1|912119	CE4	Carbohydrate Esterase Family 4
+Neocon1|912123	CE4	Carbohydrate Esterase Family 4
+Neocon1|912127	CE4	Carbohydrate Esterase Family 4
+Neocon1|912130	CE4	Carbohydrate Esterase Family 4
+Neocon1|912554	DOC2	
+Neocon1|912554	DOC2	
+Neocon1|912554	GH10	Glycoside Hydrolase Family 10
+Neocon1|912759	GH43	Glycoside Hydrolase Family 43
+Neocon1|912761	GH43	Glycoside Hydrolase Family 43
+Neocon1|912786	CE4	Carbohydrate Esterase Family 4
+Neocon1|912897	CBM26	Carbohydrate-Binding Module Family 26
+Neocon1|912897	CBM25	Carbohydrate-Binding Module Family 25
+Neocon1|913109	DOC2	
+Neocon1|913109	DOC2	
+Neocon1|913554	GT8	GlycosylTransferase Family 8
+Neocon1|914245	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|914245	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|914768	CBM26	Carbohydrate-Binding Module Family 26
+Neocon1|914768	GH31	Glycoside Hydrolase Family 31
+Neocon1|915113	CBM26	Carbohydrate-Binding Module Family 26
+Neocon1|915113	GH31	Glycoside Hydrolase Family 31
+Neocon1|915184	GH3	Glycoside Hydrolase Family 3
+Neocon1|915232	GH3	Glycoside Hydrolase Family 3
+Neocon1|915315	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|915315	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|915315	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|915488	GH6	Glycoside Hydrolase Family 6
+Neocon1|915510	GH6	Glycoside Hydrolase Family 6
+Neocon1|915616	GT71	GlycosylTransferase Family 71
+Neocon1|915764	PL1	Polysaccharide Lyase Family 1
+Neocon1|916359	GH30_5	Glycoside Hydrolase Family 30 / Subf 5
+Neocon1|917167	GT71	GlycosylTransferase Family 71
+Neocon1|917351	DOC2	
+Neocon1|917351	GH45	Glycoside Hydrolase Family 45
+Neocon1|917593	GH16	Glycoside Hydrolase Family 16
+Neocon1|917594	GH16	Glycoside Hydrolase Family 16
+Neocon1|917595	GH16	Glycoside Hydrolase Family 16
+Neocon1|917596	GH16	Glycoside Hydrolase Family 16
+Neocon1|917598	GH16	Glycoside Hydrolase Family 16
+Neocon1|917833	GT71	GlycosylTransferase Family 71
+Neocon1|917898	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|917903	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|918364	GH3	Glycoside Hydrolase Family 3
+Neocon1|918366	GH3	Glycoside Hydrolase Family 3
+Neocon1|918418	DOC2	
+Neocon1|918418	DOC2	
+Neocon1|918445	GT2	GlycosylTransferase Family 2
+Neocon1|918531	GH6	Glycoside Hydrolase Family 6
+Neocon1|918548	GH6	Glycoside Hydrolase Family 6
+Neocon1|919132	CE6	Carbohydrate Esterase Family 6
+Neocon1|919151	GH78	Glycoside Hydrolase Family 78
+Neocon1|919563	DOC2	
+Neocon1|919563	DOC2	
+Neocon1|919563	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|919913	PL11_2	Polysaccharide Lyase Family 11 / Subf 2
+Neocon1|920002	DOC2	
+Neocon1|920002	DOC2	
+Neocon1|920002	CE15	Carbohydrate Esterase Family 15
+Neocon1|920308	GH11	Glycoside Hydrolase Family 11
+Neocon1|920308	GH10	Glycoside Hydrolase Family 10
+Neocon1|920308	DOC2	
+Neocon1|920371	CBM10	Carbohydrate-Binding Module Family 10
+Neocon1|920485	CE4	Carbohydrate Esterase Family 4
+Neocon1|920630	PL1	Polysaccharide Lyase Family 1
+Neocon1|920991	CBM6	Carbohydrate-Binding Module Family 6
+Neocon1|920991	GH43	Glycoside Hydrolase Family 43
+Neocon1|920991	GH43	Glycoside Hydrolase Family 43
+Neocon1|921596	GH5_8	Glycoside Hydrolase Family 5 / Subf 8
+Neocon1|921747	DOC2	
+Neocon1|921747	DOC2	
+Neocon1|921747	GH5_4	Glycoside Hydrolase Family 5 / Subf 4
+Neocon1|922368	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|922368	CBM18	Carbohydrate-Binding Module Family 18
+Neocon1|923180	CBM18	Carbohydrate-Binding Module Family 18
