@@ -2,6 +2,7 @@
 genomic, transcriptomic, functional analysis of neocallimastix var constans
 
 genome-level files: 
+
 Neocon1_FilteredModels1_annotations_cazy_2023-08-16.tab contains Mycocosm-filtered and annotated CAZymes in N. sp. Constans.
 
 Neocon1_GeneCatalog_proteins_20220615.aa.fasta is an amino acid FASTA file of filtered, translated ORFs in N. sp. Constans, also available on Mycocosm.org
