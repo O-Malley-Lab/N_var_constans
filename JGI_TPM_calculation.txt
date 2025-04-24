@@ -1,0 +1,5 @@
+ # calculate tpm
+    counts_melted['fpk'] = counts_melted['counts'] / (counts_melted['Length']/1000.0)
+    scaling_factors = counts_melted.groupby(merge_column)['fpk'].sum()/1000000.0
+    counts_melted['scaling_factor'] = counts_melted[merge_column].map(scaling_factors)
+    counts_melted['tpm'] = counts_melted['fpk'] / counts_melted['scaling_factor']
